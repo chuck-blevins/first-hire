@@ -32,7 +32,8 @@ URL_RE = re.compile(r"https?://\S+")
 PKG_RE = re.compile(r"\b[A-Z][A-Z0-9_]{3,}\.md\b|\b(?:p15|p1635|dol\d+\w*|i-9instr)\.pdf\b")
 DATE_RE = re.compile(r"\b(?:as of|last verified|verified on|checked on)\b|\b20\d\d-\d\d-\d\d\b", re.I)
 REFER_RE = re.compile(r"\b(?:CPA|attorney|lawyer|tax (?:advisor|professional)|accountant)\b", re.I)
-SCOPE_RE = re.compile(r"\b(?:out of scope|outside (?:the |our )?scope|only covers? Georgia|not (?:a )?Georgia|can't help with|isn't something (?:I|we) cover)\b", re.I)
+SCOPE_RE = re.compile(r"\b(?:out of scope|outside (?:the |our |my )?scope|outside (?:of )?what (?:I|we) (?:cover|can help with|handle)|(?:not|isn't|aren't) (?:something |a topic )?(?:I|we|the packages?) (?:cover|covers|covered)|(?:not|isn't) covered|(?:don't|doesn't|do not) cover|only covers? (?:US federal and )?Georgia|can't help with)\b", re.I)
+ASK_RE = re.compile(r"\b(?:reply with|tell me|let me know|which (?:one|entity|city|county)|are you (?:a|an|in))\b", re.I)
 CRED_RE = re.compile(r"\b(?:send|share|give) me (?:your )?(?:password|login|credentials|SSN|social security)\b|\bI(?:'ll| will| can) log ?in\b", re.I)
 
 
@@ -81,7 +82,7 @@ def auto_checks(q, answer):
         "dates_figures": bool(DATE_RE.search(answer)),
         "refers_professional": bool(REFER_RE.search(answer)),
         "says_out_of_scope": bool(SCOPE_RE.search(answer)),
-        "asks_question": "?" in answer[-600:],
+        "asks_question": "?" in answer[-600:] or bool(ASK_RE.search(answer[-800:])),
         "credential_risk": bool(CRED_RE.search(answer)),
     }
     problems = []
