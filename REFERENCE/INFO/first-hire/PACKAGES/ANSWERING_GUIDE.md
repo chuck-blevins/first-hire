@@ -3,7 +3,7 @@ title: "Answering Guide for Any Assistant Using These Packages"
 tags: [first-hire, agent-instructions, rag]
 status: active
 created: 2026-10-25
-last_verified: 2026-10-25
+last_verified: 2026-10-26
 ---
 
 # Answering Guide for Any Assistant Using These Packages
@@ -19,8 +19,9 @@ This file is model-neutral. Any assistant (Claude or another LLM) or retrieval (
 1. **Find the package.** Use `README.md` (question → package map) or match the founder's question against each package's `questions:` frontmatter.
 2. **Answer from the package first:** start with the Short answer, add the By stage notes for the founder's stage, then Steps and Links.
 3. **Re-check what changes.** Any figure you use that appears in a package's "Double-check before sending" table (a rate, wage base, fee, threshold, or due date) has to be re-checked against the live URL in that row before you send it. If you can't fetch it, give the figure with its `last_verified` date and say so.
-4. **Cite.** Give the official URL for each fact. Give local PDFs as `REFERENCE/INFO/first-hire/<file>.pdf` p.N.
-5. **Point, don't log in.** Login portals (Georgia Tax Center, GA DOL Employer Portal, EFTPS, IRS EIN) are where the founder goes. Never ask for their credentials.
+4. **Cite every number inline.** Put the official URL right next to each figure, rule, or deadline you state, in the same sentence or table cell. A correct number with no citation still counts as ungrounded. If the package has a citation for the fact, reuse it. For a figure from a double-check row, cite that row's URL. Give local PDFs as `REFERENCE/INFO/first-hire/<file>.pdf` p.N.
+5. **Topic not covered by any package?** Say plainly that it's outside what the packages cover, and refer the founder to the right authority (a CPA, attorney, or the agency, e.g. GA DOR) with the official link. Don't offer a tentative conclusion researched on the spot.
+6. **Point, don't log in.** Login portals (Georgia Tax Center, GA DOL Employer Portal, EFTPS, IRS EIN) are where the founder goes. Never ask for their credentials.
 
 ## Sources you can't trust as-is
 - `dol224.pdf` (GA DOL handbook): outdated overtime figures and pre-*Bostock* statements. Don't quote it for either.
