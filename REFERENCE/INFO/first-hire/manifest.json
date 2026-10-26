@@ -1,7 +1,7 @@
 {
   "name": "first-hire knowledge base",
   "description": "Cached, cited guidance for startup founders in Georgia (US) on hiring, payroll, taxes, compliance, and entity questions. General information, not legal or tax advice.",
-  "generated": "2026-10-25",
+  "generated": "2026-10-26",
   "conventions": "REFERENCE/INFO/first-hire/PACKAGES/README.md",
   "source_index": "REFERENCE/INFO/first-hire/SOURCES.md",
   "question_bank": "REFERENCE/INFO/first-hire/PACKAGES/QUESTION_BANK.md",
@@ -97,7 +97,7 @@
         "remote-and-out-of-state-hires",
         "payroll-peo-and-benefits"
       ],
-      "last_verified": "2026-10-25",
+      "last_verified": "2026-10-26",
       "status": "active",
       "sections": [
         "Short answer",
@@ -109,7 +109,7 @@
         "When to bring in a professional",
         "Related packages"
       ],
-      "words": 2663
+      "words": 3057
     },
     {
       "id": "equity-for-early-hires",
@@ -152,7 +152,7 @@
         "exempt-vs-nonexempt-pay-rules",
         "headcount-triggers-and-compliance-calendar"
       ],
-      "last_verified": "2026-10-25",
+      "last_verified": "2026-10-26",
       "status": "active",
       "sections": [
         "Short answer",
@@ -164,7 +164,7 @@
         "When to bring in a professional",
         "Related packages"
       ],
-      "words": 2601
+      "words": 2643
     },
     {
       "id": "exempt-vs-nonexempt-pay-rules",
@@ -316,7 +316,7 @@
         "firing-and-offboarding-ga",
         "local-business-licenses-metro-atlanta"
       ],
-      "last_verified": "2026-10-25",
+      "last_verified": "2026-10-26",
       "status": "active",
       "sections": [
         "Short answer",
@@ -328,7 +328,7 @@
         "When to bring in a professional",
         "Related packages"
       ],
-      "words": 2785
+      "words": 2960
     },
     {
       "id": "ga-employer-taxes",
@@ -372,7 +372,7 @@
         "remote-and-out-of-state-hires",
         "local-business-licenses-metro-atlanta"
       ],
-      "last_verified": "2026-10-25",
+      "last_verified": "2026-10-26",
       "status": "active",
       "sections": [
         "Short answer",
@@ -384,7 +384,7 @@
         "When to bring in a professional",
         "Related packages"
       ],
-      "words": 3388
+      "words": 3695
     },
     {
       "id": "headcount-triggers-and-compliance-calendar",
@@ -423,7 +423,7 @@
         "firing-and-offboarding-ga",
         "payroll-peo-and-benefits"
       ],
-      "last_verified": "2026-10-25",
+      "last_verified": "2026-10-26",
       "status": "active",
       "sections": [
         "Short answer",
@@ -435,7 +435,7 @@
         "When to bring in a professional",
         "Related packages"
       ],
-      "words": 4596
+      "words": 4786
     },
     {
       "id": "local-business-licenses-metro-atlanta",
@@ -474,7 +474,7 @@
         "delaware-entity-in-georgia",
         "employee-vs-contractor"
       ],
-      "last_verified": "2026-10-25",
+      "last_verified": "2026-10-26",
       "status": "active",
       "sections": [
         "Short answer",
@@ -486,7 +486,7 @@
         "When to bring in a professional",
         "Related packages"
       ],
-      "words": 3648
+      "words": 3967
     },
     {
       "id": "paying-founders",
@@ -525,7 +525,7 @@
         "delaware-entity-in-georgia",
         "payroll-peo-and-benefits"
       ],
-      "last_verified": "2026-10-25",
+      "last_verified": "2026-10-26",
       "status": "active",
       "sections": [
         "Short answer",
@@ -537,7 +537,7 @@
         "When to bring in a professional",
         "Related packages"
       ],
-      "words": 2894
+      "words": 2952
     },
     {
       "id": "payroll-peo-and-benefits",

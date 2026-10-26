@@ -6,7 +6,7 @@ jurisdiction: [US-federal, GA, US-DE, GA-local]
 tags: [compliance, deadlines, headcount-thresholds, employment-law, calendar]
 audience: [pre-revenue, funded-2-10]
 related: [first-hire-checklist, ga-employer-taxes, delaware-entity-in-georgia, local-business-licenses-metro-atlanta, firing-and-offboarding-ga, payroll-peo-and-benefits]
-last_verified: 2026-10-25
+last_verified: 2026-10-26
 status: active
 ---
 
@@ -81,7 +81,7 @@ FindLaw's copies of GA statutes are "current as of March 28, 2024." Later amendm
 | Voting leave | 1+ | Any employer | Up to 2 hours off to vote on reasonable notice. You may set the hours. Pay isn't addressed | [§ 21-2-404](https://codes.findlaw.com/ga/title-21-elections/ga-code-sect-21-2-404/). *Discrepancy:* `dol224.pdf` p.28 adds an exception for shifts that leave 2 hours of open polls. FindLaw's text has no such exception, so verify it |
 | Lactation | 1+ | Private employers. The state is excluded | **Paid** break time at the regular rate, plus a private location that isn't a restroom. Under 50 employees, exempt only on undue hardship. Stricter than federal law, which allows unpaid breaks | [§ 34-1-6](https://codes.findlaw.com/ga/title-34-labor-and-industrial-relations/ga-code-sect-34-1-6/) |
 | Age discrimination | 1+ | "Any business requiring the employment of labor" | Covers ages 40–70. A violation is a misdemeanor with a $100–$250 fine | [§ 34-1-2](https://codes.findlaw.com/ga/title-34-labor-and-industrial-relations/ga-code-sect-34-1-2/) |
-| Workers' comp | 3+ | Regular employees, including part-timers. Corporate officers and LLC members count even if they waive coverage | Carry insurance and post WC-BOR and WC-P1/P3. Fines run $500–$5,000. See GA_EMPLOYER_TAXES.md | [SBWC FAQ](https://sbwc.georgia.gov/frequently-asked-questions/workers-compensation-insurance-faqs) |
+| Workers' comp | 3+ | Regular employees, including part-timers. Corporate officers and LLC members count even if they waive coverage | Carry insurance and post WC-BOR and WC-P1/P3. Going without required coverage: civil penalty of $500–$5,000 per occurrence. Refusing or willfully neglecting to get it is a misdemeanor: fine of $1,000–$10,000, up to 12 months in jail, or both. See GA_EMPLOYER_TAXES.md | [SBWC FAQ](https://sbwc.georgia.gov/frequently-asked-questions/workers-compensation-insurance-faqs); [SBWC Employer Information](https://sbwc.georgia.gov/employer-information) |
 | State minimum wage | 6+ employees **and** sales over $40,000 | Statute excludes employers with 5 or fewer employees, or $40K or less in sales | $5.15. In practice the federal $7.25 controls | [§ 34-4-3](https://codes.findlaw.com/ga/title-34-labor-and-industrial-relations/ga-code-sect-34-4-3/); `dol224.pdf` p.14 |
 | Equal pay for equal work | 10+ | "Any person employing ten or more employees," engaged in intrastate commerce | No sex-based pay differences for comparable work. Post DOL-4107 | [§ 34-5-2](https://codes.findlaw.com/ga/title-34-labor-and-industrial-relations/ga-code-sect-34-5-2/); `dol4107.pdf` |
 | E-Verify | More than 10 | Employees working 35+ hours a week, counted on Jan 1 of the affidavit year | Enroll in E-Verify, and give your E-Verify number on a business license application or renewal. At 10 or fewer, file the exemption affidavit. Some cities require it at lower headcounts | [§ 36-60-6](https://codes.findlaw.com/ga/title-36-local-government/ga-code-sect-36-60-6/); `dol224.pdf` p.23 |
@@ -113,13 +113,14 @@ FindLaw's copies of GA statutes are "current as of March 28, 2024." Later amendm
 | Month | 2026 date | 2027 date | What | Who | Source |
 |---|---|---|---|---|---|
 | Jan | Jan 15 | Jan 15 | Q4 individual estimated tax (1040-ES, GA 500-ES), for the prior year | Founders with pass-through income | [Pub 509](https://www.irs.gov/publications/p509); [GA 500-ES](https://dor.georgia.gov/500-es-individual-and-fiduciary-estimated-tax-payment-voucher) |
-| Jan–Feb | Feb 2† | Feb 1† | W-2s to employees and W-2/W-3 to SSA; 1099-NEC to contractors and IRS ($600 for 2025, $2,000 for 2026); GA G-1003 with W-2s and 1099-NECs | Employers; anyone paying contractors | [Pub 509](https://www.irs.gov/publications/p509); [1099 instr.](https://www.irs.gov/instructions/i1099mec); `2026 Employers_Tax_Guide.pdf` p.6 |
+| Jan–Feb | Feb 2† | Feb 1† | W-2s to employees and W-2/W-3 to SSA; 1099-NEC to contractors and IRS ($600 for 2025, $2,000 for 2026); GA G-1003 with W-2s, plus only those 1099-NECs that report Georgia tax withheld (a 1099-NEC with no GA withholding doesn't go to GA DOR) | Employers file the G-1003; anyone paying contractors files the federal 1099-NEC | [Pub 509](https://www.irs.gov/publications/p509); [1099 instr.](https://www.irs.gov/instructions/i1099mec); `2026 Employers_Tax_Guide.pdf` p.6–7, 19–20 |
 | Jan–Feb | Feb 2† | Feb 1† | Q4 Form 941, Form 940, Q4 G-7 (annual filers: the one G-7), Q4 DOL-4N | Employers | Pub 509; GA guide p.6–8; GA_EMPLOYER_TAXES.md |
 | Feb | Feb 10 | Feb 10 | 940 and 941 extended deadline, if every deposit was on time | Employers | [IRS due dates](https://www.irs.gov/businesses/small-businesses-self-employed/employment-tax-due-dates) |
 | Feb | Feb 1 (Sun) file / Apr 15 pay | Feb 1 file / Apr 15 pay | **DeKalb** (unincorporated) business license renewal | DeKalb businesses | [DeKalb](https://www.dekalbcountyga.gov/planning-and-sustainability/business-and-alcohol-license-0); Feb 1 file / Apr 15 pay confirmed on the [DeKalb 2026 renewal notice](https://dekalbcountyga.gov/sites/default/files/2026-01/2026%20RENEWAL%20APPLICATION.pdf). Penalties are in `local-business-licenses-metro-atlanta` |
 | Feb | Feb 1 – Apr 30 | Feb 1 – Apr 30 | Post the OSHA 300A | Only if you must keep logs | [1904.32](https://www.law.cornell.edu/cfr/text/29/1904.32) |
 | Feb | Feb 15 / Feb 16 | Feb 15 / Feb 16 | Get new W-4s from employees claiming exempt. Old exempt W-4s expire Feb 16 | Employers | `p15.pdf` p.11 |
 | Feb | Feb 15 (Sun) file / Apr 1 pay | Feb 15 (holiday) file / Apr 1 pay | **Atlanta** occupational tax certificate renewal ($500 penalty for filing late) | Atlanta businesses | Atlanta Office of Revenue (verify manually; secondary) |
+| Mar | Mar 2† | Mar 1† | GA G-1003 for 1099s other than the 1099-NEC, only if they report GA withholding, qualified overtime, or qualified cash tips. Exception: Forms 1099-K and 1099-DA go to GA DOR even with no GA withholding | Payers with GA withholding on those 1099s; all 1099-K and 1099-DA filers | `2026 Employers_Tax_Guide.pdf` p.6–7, 20 (2027 date is the guide's "All other 1099s" due date of 3/01/2027) |
 | Mar | Mar 1 (Sun, no roll) | Mar 1 | **Delaware** franchise tax plus annual report | DE corps | DELAWARE_ENTITY_IN_GEORGIA.md |
 | Mar | Mar 2 | Mar 1† / Mar 2 | Furnish 1095-C by Mar 2. File 1094-C and 1095-C with IRS on paper (Mar 2, 2026; Mar 1†, 2027) or online by Mar 31 | Employers with 50+ FTEs | [1094/1095-C instr.](https://www.irs.gov/instructions/i109495c) (2025 instructions; 2026 not checked) |
 | Mar | Mar 2 | Mar 2 | File OSHA 300A online | Listed industries with 20–249 employees, or 250+ | [1904.41](https://www.law.cornell.edu/cfr/text/29/1904.41) |
@@ -192,6 +193,7 @@ FindLaw's copies of GA statutes are "current as of March 28, 2024." Later amendm
 | Federal lactation small-employer rule | Under 50, undue hardship only | 29 U.S.C. 218d | 2026-10-25 |
 | GA UI trigger | 1 worker in 20 weeks or $1,500 in a quarter | dol4e.pdf p.2 | 2026-10-25 |
 | GA workers' comp | 3+; officers and members count | SBWC FAQ | 2026-10-25 |
+| GA workers' comp penalties | Civil $500–$5,000 per occurrence; willful failure a misdemeanor, $1,000–$10,000 fine and/or up to 12 months | https://sbwc.georgia.gov/employer-information | 2026-10-26 |
 | GA E-Verify | More than 10 employees at 35+ hours, counted Jan 1 | O.C.G.A. 36-60-6 (FindLaw 2024) | 2026-10-25 |
 | GA equal pay | 10+ employees | O.C.G.A. 34-5-2 (FindLaw 2024) | 2026-10-25 |
 | GA kin care | 25+; 30+ hours; 5 days; no sunset in text | O.C.G.A. 34-1-10 (FindLaw 2024) | 2026-10-25 |
@@ -209,6 +211,7 @@ FindLaw's copies of GA statutes are "current as of March 28, 2024." Later amendm
 | 1095-C 2027 dates | Furnish Mar 2; paper Mar 1; e-file Mar 31 (projected) | 2026 1094-C/1095-C instructions | Not verified |
 | Form 5500 | Last day of month 7; Aug 2, 2027 roll calculated | IRS 5500 Corner; 2026 5500 instructions | 2026-10-25 (roll not verified) |
 | GA withholding / G-7 / G-1003 dates (2026) | GA guide p.6 | 2026 Employers Tax Guide | 2026-10-25 |
+| Which 1099s go with the G-1003 | Only 1099s reporting GA withholding, qualified overtime, or qualified cash tips; 1099-K and 1099-DA always | 2026 Employers Tax Guide p.7, 20 | 2026-10-26 |
 | GA 2027 withholding dates | Calculated, not published | 2027 DOR guide (when released) | Not verified |
 | GA 600 / 600S / 700 / net worth | 15th of month 4 (C) / month 3 (S, P'ship) | DOR corporate dates; NWT FAQ | 2026-10-25 |
 | GA 500 due 2027 | Apr 15, 2027 | dor.georgia.gov/tax-due-dates | 2026-10-25 |

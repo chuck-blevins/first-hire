@@ -6,7 +6,7 @@ tags: [equity, stock-options, iso, nso, restricted-stock, 409a, 83b-election, pr
 jurisdiction: [US-federal, GA]
 audience: [pre-revenue, funded-2-10]
 related: [first-hire-checklist, employee-vs-contractor, paying-founders, delaware-entity-in-georgia, ga-employer-taxes, exempt-vs-nonexempt-pay-rules, headcount-triggers-and-compliance-calendar]
-last_verified: 2026-10-25
+last_verified: 2026-10-26
 status: active
 ---
 
@@ -123,6 +123,7 @@ The holder can choose to be taxed now, at the shares' current value, instead of 
 | GA exemption paragraph | § 10-5-11(21) (FindLaw copy, current as of 3/28/2024) | Official O.C.G.A. (verify manually) | 2026-10-25 |
 | Federal supplemental withholding | 22%; 37% above $1M | p15.pdf p.2, pp.23–24 | 2026-10-25 |
 | 2026 Social Security wage base | $184,500 | p15.pdf p.2 | 2026-10-25 |
+| 2027 Social Security wage base | $192,300 (announced by SSA Oct 14, 2026; applies to NSO spreads and other wages paid in 2027) | https://www.ssa.gov/oact/cola/cbb.html (returns 403 to automated checks; read from the Internet Archive capture of 2026-10-20) | 2026-10-26 |
 | GA supplemental withholding | 5.19%, then 4.99% from May 11, 2026 | GA DOR guide p.14 | 2026-10-25 |
 | Seed pool norm (secondary) | ~10–15% fully diluted | Carta (blocked; verify manually) | 2026-10-25 (excerpt only) |
 | First-hire median grant (secondary) | ~1.49% (2023–24 data); ~0.3% by hire 5–6 | Carta data posts (verify manually) | 2026-10-25 (excerpt only) |
