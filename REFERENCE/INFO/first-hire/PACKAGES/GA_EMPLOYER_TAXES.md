@@ -19,7 +19,7 @@ Once you pay a W-2 employee in Georgia, you have three agencies to deal with. **
 
 ## By stage
 - **Pre-revenue founders:**
-  - Georgia employer payroll obligations start when you pay a W-2 employee. Founders can be that employee: founders who work in a C-corp are W-2 employees, while LLC owners take draws and aren't on payroll (PAYING_FOUNDERS.md). A corporate officer who performs services counts for GA UI (`REFERENCE/INFO/first-hire/dol4e.pdf` p.2, per HEADCOUNT_TRIGGERS_AND_COMPLIANCE_CALENDAR.md).
+  - Georgia employer payroll obligations start when you pay a W-2 employee. Founders can be that employee: founders who work in a C-corp are W-2 employees, while owners of an LLC taxed as a partnership or sole proprietorship take draws and aren't on payroll. An LLC that elected S-corp tax treatment puts its owner-officers on W-2 payroll (PAYING_FOUNDERS.md). A corporate officer who performs services counts for GA UI (`REFERENCE/INFO/first-hire/dol4e.pdf` p.2, per HEADCOUNT_TRIGGERS_AND_COMPLIANCE_CALENDAR.md).
   - **Now:** get an EIN, and enroll in EFTPS early. Enrollment takes about a week because the PIN arrives by mail ([eftps.gov](https://www.eftps.gov)).
   - **Very small payrolls:** an employer whose annual FICA plus withheld income tax is $1,000 or less can ask the IRS for written approval to file one Form 944 instead of four Forms 941 (`REFERENCE/INFO/first-hire/p15.pdf` p.5). An employer withholding $800 or less a year in GA can file one annual G-7, if it requests annual status in GTC before the first quarterly due date (`REFERENCE/INFO/first-hire/2026 Employers_Tax_Guide.pdf` p.7–8).
 - **Funded teams hiring 2–10:**
