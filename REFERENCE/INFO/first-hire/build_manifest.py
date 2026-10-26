@@ -8,7 +8,6 @@ Standard library only, so any environment or pipeline can run it.
 import json
 import re
 import sys
-from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -87,7 +86,7 @@ def main():
     manifest = {
         "name": "first-hire knowledge base",
         "description": "Cached, cited guidance for startup founders in Georgia (US) on hiring, payroll, taxes, compliance, and entity questions. General information, not legal or tax advice.",
-        "generated": date.today().isoformat(),
+        "generated": max((p["last_verified"] for p in packages if p["last_verified"]), default=None),
         "conventions": rel(PKG_DIR / "README.md"),
         "source_index": rel(ROOT / "SOURCES.md"),
         "question_bank": rel(PKG_DIR / "QUESTION_BANK.md"),
