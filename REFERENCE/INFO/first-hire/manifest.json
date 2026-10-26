@@ -1,0 +1,731 @@
+{
+  "name": "first-hire knowledge base",
+  "description": "Cached, cited guidance for startup founders in Georgia (US) on hiring, payroll, taxes, compliance, and entity questions. General information, not legal or tax advice.",
+  "generated": "2026-10-25",
+  "conventions": "REFERENCE/INFO/first-hire/PACKAGES/README.md",
+  "source_index": "REFERENCE/INFO/first-hire/SOURCES.md",
+  "question_bank": "REFERENCE/INFO/first-hire/PACKAGES/QUESTION_BANK.md",
+  "answering_guide": "REFERENCE/INFO/first-hire/PACKAGES/ANSWERING_GUIDE.md",
+  "packages": [
+    {
+      "id": "delaware-entity-in-georgia",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/DELAWARE_ENTITY_IN_GEORGIA.md",
+      "title": "Delaware Entity Operating in Georgia vs. Forming in Georgia",
+      "questions": [
+        "What's the difference between having my LLC incorporated in Delaware, but active in GA?",
+        "Do I need to register my Delaware company in Georgia?",
+        "Should I form in Delaware or Georgia?",
+        "Does Delaware save me taxes if I'm based in Georgia?",
+        "Why did Delaware send me a huge franchise tax bill?"
+      ],
+      "tags": [
+        "entity-choice",
+        "delaware",
+        "foreign-registration",
+        "franchise-tax",
+        "registered-agent",
+        "ga-corporate-tax",
+        "llc-conversion",
+        "qsbs"
+      ],
+      "jurisdiction": [
+        "US-DE",
+        "GA"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "first-hire-checklist",
+        "paying-founders",
+        "equity-for-early-hires",
+        "ga-employer-taxes",
+        "headcount-triggers-and-compliance-calendar",
+        "local-business-licenses-metro-atlanta"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Cost comparison: GA LLC vs. Delaware LLC or C-corp in Georgia (approximate, year 1 + recurring)",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 2663
+    },
+    {
+      "id": "employee-vs-contractor",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/EMPLOYEE_VS_CONTRACTOR.md",
+      "title": "Employee vs. Independent Contractor for Your First Technical Hire",
+      "questions": [
+        "I need to bring on a developer or first technical hire. Should it be a full-time employee or a contractor?",
+        "Can I just pay my developer on a 1099?",
+        "What does it cost to hire an employee vs. a contractor in Georgia?",
+        "Who owns the code a contractor writes for me?",
+        "Can I start someone as a contractor and convert them later?"
+      ],
+      "tags": [
+        "worker-classification",
+        "independent-contractor",
+        "form-1099-nec",
+        "ip-assignment",
+        "ga-unemployment-insurance",
+        "flsa",
+        "contract-to-hire"
+      ],
+      "jurisdiction": [
+        "US-federal",
+        "GA"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "first-hire-checklist",
+        "exempt-vs-nonexempt-pay-rules",
+        "ga-employer-taxes",
+        "equity-for-early-hires",
+        "paying-founders",
+        "headcount-triggers-and-compliance-calendar",
+        "remote-and-out-of-state-hires",
+        "payroll-peo-and-benefits"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 2663
+    },
+    {
+      "id": "equity-for-early-hires",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/EQUITY_FOR_EARLY_HIRES.md",
+      "title": "Equity for Early Hires",
+      "questions": [
+        "How do I deal with equity planning and division for new hires?",
+        "How much equity should I give my first employee?",
+        "Can my LLC give stock options?",
+        "What is a 409A and do I need one before granting options?",
+        "What's an 83(b) election?",
+        "Can I give equity to a contractor?"
+      ],
+      "tags": [
+        "equity",
+        "stock-options",
+        "iso",
+        "nso",
+        "restricted-stock",
+        "409a",
+        "83b-election",
+        "profits-interests",
+        "option-pool",
+        "rule-701"
+      ],
+      "jurisdiction": [
+        "US-federal",
+        "GA"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "first-hire-checklist",
+        "employee-vs-contractor",
+        "paying-founders",
+        "delaware-entity-in-georgia",
+        "ga-employer-taxes",
+        "exempt-vs-nonexempt-pay-rules",
+        "headcount-triggers-and-compliance-calendar"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 2601
+    },
+    {
+      "id": "exempt-vs-nonexempt-pay-rules",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/EXEMPT_VS_NONEXEMPT_PAY_RULES.md",
+      "title": "Exempt vs. Non-Exempt and Basic Pay Rules for Your First Technical Hire in Georgia",
+      "questions": [
+        "Do I have to pay my developer overtime?",
+        "Can I pay a salary below X and still not pay overtime?",
+        "Can I pay my first hire in equity instead of cash?",
+        "Can I defer or accrue salary until we raise?",
+        "Can I have unpaid interns or volunteers?",
+        "How often do I have to run payroll in Georgia?",
+        "When is a final paycheck due in Georgia?"
+      ],
+      "tags": [
+        "flsa",
+        "overtime",
+        "minimum-wage",
+        "pay-frequency",
+        "internships",
+        "wage-and-hour"
+      ],
+      "jurisdiction": [
+        "US-federal",
+        "GA"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "employee-vs-contractor",
+        "first-hire-checklist",
+        "equity-for-early-hires",
+        "remote-and-out-of-state-hires",
+        "firing-and-offboarding-ga"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 3305
+    },
+    {
+      "id": "firing-and-offboarding-ga",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/FIRING_AND_OFFBOARDING_GA.md",
+      "title": "Firing and Offboarding an Employee in Georgia",
+      "questions": [
+        "How do I fire my first employee?",
+        "What do I owe someone when they leave?",
+        "Do I need a severance agreement?",
+        "What happens with their equity when they leave?",
+        "When is the final paycheck due in Georgia?",
+        "Do I have to pay out unused PTO in Georgia?",
+        "What is the Georgia separation notice (DOL-800)?",
+        "Can I give a bad reference?",
+        "How do I end a contractor relationship?"
+      ],
+      "tags": [
+        "termination",
+        "offboarding",
+        "severance",
+        "separation-notice",
+        "unemployment-insurance",
+        "cobra",
+        "equity",
+        "restrictive-covenants",
+        "recordkeeping"
+      ],
+      "jurisdiction": [
+        "US-federal",
+        "GA"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "exempt-vs-nonexempt-pay-rules",
+        "headcount-triggers-and-compliance-calendar",
+        "equity-for-early-hires",
+        "employee-vs-contractor",
+        "first-hire-checklist",
+        "ga-employer-taxes"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 3197
+    },
+    {
+      "id": "first-hire-checklist",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/FIRST_HIRE_CHECKLIST.md",
+      "title": "First-Hire Checklist for a Georgia Startup",
+      "questions": [
+        "I'm about to hire my first employee in Georgia. What do I need to do, in order?",
+        "What accounts do I need before running payroll in Georgia?",
+        "What paperwork does a new employee fill out on day one in GA?",
+        "Do I need workers' comp or E-Verify for my first hire in Georgia?"
+      ],
+      "tags": [
+        "first-hire",
+        "checklist",
+        "onboarding",
+        "ein",
+        "payroll-setup",
+        "workers-comp",
+        "e-verify",
+        "form-i-9",
+        "new-hire-reporting",
+        "background-checks",
+        "at-will"
+      ],
+      "jurisdiction": [
+        "US-federal",
+        "GA"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "employee-vs-contractor",
+        "ga-employer-taxes",
+        "exempt-vs-nonexempt-pay-rules",
+        "equity-for-early-hires",
+        "paying-founders",
+        "delaware-entity-in-georgia",
+        "headcount-triggers-and-compliance-calendar",
+        "remote-and-out-of-state-hires",
+        "payroll-peo-and-benefits",
+        "firing-and-offboarding-ga",
+        "local-business-licenses-metro-atlanta"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 2770
+    },
+    {
+      "id": "ga-employer-taxes",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/GA_EMPLOYER_TAXES.md",
+      "title": "Employer Payroll Taxes and Filings in Georgia",
+      "questions": [
+        "What taxes do I need to collect and pay if active in GA?",
+        "What payroll taxes do I owe when I hire my first employee in Georgia?",
+        "Which forms do I file for payroll, and when?",
+        "Do I need to register with the Georgia DOR and DOL before running payroll?",
+        "What is Georgia's unemployment tax rate for a new employer?"
+      ],
+      "tags": [
+        "payroll-taxes",
+        "withholding",
+        "fica",
+        "futa",
+        "ga-unemployment-insurance",
+        "new-hire-reporting",
+        "workers-comp",
+        "workplace-posters",
+        "filing-calendar"
+      ],
+      "jurisdiction": [
+        "US-federal",
+        "GA"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "first-hire-checklist",
+        "paying-founders",
+        "employee-vs-contractor",
+        "equity-for-early-hires",
+        "exempt-vs-nonexempt-pay-rules",
+        "headcount-triggers-and-compliance-calendar",
+        "delaware-entity-in-georgia",
+        "payroll-peo-and-benefits",
+        "remote-and-out-of-state-hires",
+        "local-business-licenses-metro-atlanta"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 3366
+    },
+    {
+      "id": "headcount-triggers-and-compliance-calendar",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/HEADCOUNT_TRIGGERS_AND_COMPLIANCE_CALENDAR.md",
+      "title": "Headcount Triggers and Annual Compliance Calendar (Georgia Startups)",
+      "questions": [
+        "What laws apply to me now that I have employees?",
+        "What changes when we hit 15 or 50 people?",
+        "What are all my filing deadlines this year?",
+        "When do COBRA, FMLA, and the ACA employer mandate kick in?",
+        "Do I need E-Verify, and when?",
+        "When is my Atlanta / DeKalb / Fulton business license renewal due?"
+      ],
+      "tags": [
+        "compliance",
+        "deadlines",
+        "headcount-thresholds",
+        "employment-law",
+        "calendar"
+      ],
+      "jurisdiction": [
+        "US-federal",
+        "GA",
+        "US-DE",
+        "GA-local"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "first-hire-checklist",
+        "ga-employer-taxes",
+        "delaware-entity-in-georgia",
+        "local-business-licenses-metro-atlanta",
+        "firing-and-offboarding-ga",
+        "payroll-peo-and-benefits"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 4591
+    },
+    {
+      "id": "local-business-licenses-metro-atlanta",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/LOCAL_BUSINESS_LICENSES_METRO_ATLANTA.md",
+      "title": "Local Business Licenses and Occupation Tax in Metro Atlanta",
+      "questions": [
+        "Do I need a business license in Atlanta?",
+        "I work from home in Decatur. Do I need a license?",
+        "What's an occupation tax certificate?",
+        "Do I need a business license if I have no revenue yet?",
+        "Is my business licensed by the city or the county?",
+        "When is my business license renewal due in Sandy Springs / Roswell / Gwinnett / Cobb?",
+        "What is the E-Verify affidavit on my business license application?"
+      ],
+      "tags": [
+        "business-license",
+        "occupation-tax",
+        "local-government",
+        "home-based-business",
+        "zoning",
+        "e-verify",
+        "metro-atlanta"
+      ],
+      "jurisdiction": [
+        "GA",
+        "GA-local"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "headcount-triggers-and-compliance-calendar",
+        "first-hire-checklist",
+        "ga-employer-taxes",
+        "delaware-entity-in-georgia",
+        "employee-vs-contractor"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 3648
+    },
+    {
+      "id": "paying-founders",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/PAYING_FOUNDERS.md",
+      "title": "How Founders Pay Themselves, by Entity Type",
+      "questions": [
+        "How do I pay myself?",
+        "Should I take a salary or draws?",
+        "Should my LLC elect S-corp?",
+        "What is reasonable compensation for an S-corp owner?",
+        "Can I work for free until we raise?",
+        "Can I put myself on payroll as an LLC owner?",
+        "Do I need to pay quarterly estimated taxes?",
+        "What salary do investors expect founders to take?"
+      ],
+      "tags": [
+        "founder-compensation",
+        "s-corp",
+        "llc",
+        "c-corp",
+        "estimated-taxes",
+        "self-employment-tax"
+      ],
+      "jurisdiction": [
+        "US-federal",
+        "GA"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "ga-employer-taxes",
+        "equity-for-early-hires",
+        "exempt-vs-nonexempt-pay-rules",
+        "delaware-entity-in-georgia",
+        "payroll-peo-and-benefits"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 2894
+    },
+    {
+      "id": "payroll-peo-and-benefits",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/PAYROLL_PEO_AND_BENEFITS.md",
+      "title": "Payroll Providers vs. PEOs vs. DIY, and Benefits Basics for Small Georgia Employers",
+      "questions": [
+        "Should I use a payroll provider or a PEO?",
+        "Can I just run payroll myself?",
+        "What is a certified PEO (CPEO)?",
+        "What happens to my unemployment account if I leave a PEO?",
+        "Do I have to offer health insurance?",
+        "What benefits should a 5-person startup offer?",
+        "What's a QSEHRA?",
+        "What's an ICHRA or CHOICE Arrangement?",
+        "SIMPLE IRA or 401(k)?",
+        "Does Georgia require a retirement plan or paid sick leave?"
+      ],
+      "tags": [
+        "payroll",
+        "peo",
+        "cpeo",
+        "benefits",
+        "health-insurance",
+        "qsehra",
+        "ichra",
+        "hsa",
+        "fsa",
+        "retirement",
+        "401k",
+        "simple-ira",
+        "pto",
+        "commuter-benefits"
+      ],
+      "jurisdiction": [
+        "US-federal",
+        "GA"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "first-hire-checklist",
+        "ga-employer-taxes",
+        "headcount-triggers-and-compliance-calendar",
+        "paying-founders",
+        "remote-and-out-of-state-hires",
+        "firing-and-offboarding-ga",
+        "employee-vs-contractor"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 3956
+    },
+    {
+      "id": "remote-and-out-of-state-hires",
+      "path": "REFERENCE/INFO/first-hire/PACKAGES/REMOTE_AND_OUT_OF_STATE_HIRES.md",
+      "title": "Remote, Out-of-State, and International Hires for a Georgia Startup",
+      "questions": [
+        "Can I hire a developer who lives in another state?",
+        "What do I have to do to hire someone remote in Texas, California, or New York?",
+        "Can I hire a developer in another country?",
+        "Do I withhold Georgia tax for a remote employee who lives in another state?",
+        "Which state's unemployment tax applies to a remote employee?",
+        "How do I do the I-9 for a remote hire I never meet in person?",
+        "Should I use an Employer of Record (EOR) or pay an overseas developer as a contractor?",
+        "Can I hire someone on OPT or sponsor an H-1B?"
+      ],
+      "tags": [
+        "remote-work",
+        "multi-state-payroll",
+        "state-withholding",
+        "state-unemployment-insurance",
+        "nexus",
+        "pay-transparency",
+        "form-i-9",
+        "e-verify",
+        "employer-of-record",
+        "international-contractors",
+        "form-w-8ben",
+        "ofac",
+        "export-controls",
+        "work-visas"
+      ],
+      "jurisdiction": [
+        "US-federal",
+        "GA",
+        "US-other-states",
+        "international"
+      ],
+      "audience": [
+        "pre-revenue",
+        "funded-2-10"
+      ],
+      "related": [
+        "employee-vs-contractor",
+        "first-hire-checklist",
+        "ga-employer-taxes",
+        "exempt-vs-nonexempt-pay-rules",
+        "delaware-entity-in-georgia",
+        "headcount-triggers-and-compliance-calendar",
+        "equity-for-early-hires"
+      ],
+      "last_verified": "2026-10-25",
+      "status": "active",
+      "sections": [
+        "Short answer",
+        "By stage",
+        "What you need to know",
+        "Steps",
+        "Links",
+        "Double-check before sending",
+        "When to bring in a professional",
+        "Related packages"
+      ],
+      "words": 3085
+    }
+  ],
+  "source_documents": [
+    {
+      "pdf": "REFERENCE/INFO/first-hire/2026 Employers_Tax_Guide.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/2026 Employers_Tax_Guide.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/GA-At-Will Employment.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/GA-At-Will Employment.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/TSD_Employees_Withholding_Allowance_Certificate_G-4.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/TSD_Employees_Withholding_Allowance_Certificate_G-4.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/dol154.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/dol154.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/dol1693.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/dol1693.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/dol224.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/dol224.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/dol4107.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/dol4107.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/dol4606.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/dol4606.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/dol4a.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/dol4a.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/dol4e.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/dol4e.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/dol810.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/dol810.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/guide_for_business_insurance.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/guide_for_business_insurance.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/i-9instr.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/i-9instr.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/p15.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/p15.txt"
+    },
+    {
+      "pdf": "REFERENCE/INFO/first-hire/p1635.pdf",
+      "text": "REFERENCE/INFO/first-hire/text/p1635.txt"
+    }
+  ]
+}

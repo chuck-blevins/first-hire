@@ -1,0 +1,1868 @@
+SOURCE FILE: REFERENCE/INFO/first-hire/guide_for_business_insurance.pdf
+TEXT EXTRACTED: 2026-10-25 (machine extraction; layout and tables may be garbled; scanned pages may be missing)
+STATUS: see REFERENCE/INFO/first-hire/SOURCES.md for what this document is and whether it is outdated
+
+
+--- page 1 ---
+THE BUSINESS GUIDE
+TO
+INSURANCE
+John F. King
+Insurance and Safety Fire Commissioner
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 2 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 2 of 68
+A MESSAGE FROM THE COMMISSIONER
+A fire, a windstorm, a lawsuit --- all traumatic experiences for individuals and the
+businesses they own or operate.
+But how much more traumatic and harmful if insurance against these events are
+non-existent or inadequate.
+This guide has been developed to give you a better general understanding of
+insurance and some potential insurance needs of your business. If you feel this
+guide is valuable, tell your business associates they can get one simply by writing
+to me or by visiting this website at www. gainsurance.org. Also, let me know if
+any changes or additions would improve the guide.
+Check the back pages of this guide for the various telephone numbers to call
+when you need to contact my office.
+Sincerely,
+John F. King
+Insurance and Safety Fire Commissioner
+BUSINESS GUIDE TO INSURANCE
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 3 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 3 of 68
+Contents
+INSURANCE ................................................................................................................................................................. 1
+INTRODUCTION ......................................................................................................................................................... 5
+THE BUSINESS GUIDE TO INSURANCE ................................................................................................................ 5
+I. PROPERTY AND LIABILITY INSURANCE ......................................................................................................... 7
+A. PROPERTY INSURANCE ............................................................................................................................... 7
+SELECTING THE AMOUNT OF COVERAGE FOR BUILDINGS AND BUSINESS PERSONAL
+PROPERTY ........................................................................................................................................................... 9
+OTHER PROPERTY COVERAGE .................................................................................................................... 10
+GEORGIA UNDERWRITING ASSOCIATION ................................................................................................ 14
+B. LIABILITY INSURANCE ............................................................................................................................... 16
+BASIS FOR LIABILITY CLAIMS PAYMENT ................................................................................................ 18
+COMBINATION POLICIES ............................................................................................................................... 19
+C. BONDS ............................................................................................................................................................... 20
+D. WORKERS’ COMPENSATION INSURANCE ............................................................................................ 20
+E. MOTOR VEHICLE or “AUTOMOBILE” INSURANCE ............................................................................ 22
+II. LIFE AND HEALTH INSURANCE ...................................................................................................................... 28
+A. GROUP INSURANCE ...................................................................................................................................... 28
+B. SPECIALIZED PROGRAMS .......................................................................................................................... 34
+III. ALTERNATIVE INSURANCE MARKETS ....................................................................................................... 36
+A. SELF-FUNDING ............................................................................................................................................... 36
+B. WORKERS’ COMPENSATION GROUP SELFINSURANCE FUNDS .................................................... 37
+C. MULTIPLE EMPLOYER WELFARE ARRANGEMENT OR MULTIPLE EMPLOYER TRUSTS ... 38
+D. RISK RETENTION AND RISK PURCHASING GROUPS ........................................................................ 38
+E. SURPLUS LINES INSURERS ......................................................................................................................... 39
+IV. SHOPPING TIPS ................................................................................................................................................... 41
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 4 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 4 of 68
+V. WHAT INSURANCE IS REQUIRED? ................................................................................................................. 44
+LAW REQUIREMENTS ...................................................................................................................................... 44
+Workers’ Compensation insurance ...................................................................................................................... 44
+Other insurance .................................................................................................................................................... 44
+OTHER REQUIREMENTS ................................................................................................................................. 44
+VI. PROTECTIONS UNDER GEORGIA LAW ........................................................................................................ 45
+INSURER GUARANTY FUNDS ......................................................................................................................... 45
+CANCELLATION BY THE INSURER .............................................................................................................. 48
+GLOSSARY ................................................................................................................................................................. 59
+TELEPHONE NUMBERS FOR THE WORKERS’ COMPENSATION BOARD ................................................... 66
+TELEPHONE NUMBERS FOR COMMISSIONER’S OFFICE ............................................................................... 66
+TO REPORT A SUSPICIOUS FIRE ........................................................................................................................... 67
+TO REPORTED SUSPECTED INSURANCE FRAUD ............................................................................................. 67
+FOR HELP WITH YOUR INSURANCE QUESTIONS OR PROBLEMS ............................................................... 68
+THE NUMBERS FOR THE WORKERS’ COMPENSATION BOARD ................................................................... 68
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 5 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 5 of 68
+INTRODUCTION
+This Business Guide to Insurance is available to you for educational purposes.
+It is not intended to be an endorsement by Insurance Commissioner John F.
+King or by the Georgia Insurance Department of any product, service, person or
+organization.
+The guide has been written using common language where possible. An attempt
+has been made to simplify traditional insurance policy language when
+discussing coverage, policy provisions, or exclusions. For these reasons, we
+urge you to read your policy or contract of insurance. If you are unsure of the
+meaning of any part, ask your agent or insurer (or contact us).
+
+And keep asking until you do understand! In no other part of your
+business can what you do not know hurt you more than in insurance.
+NOTE: If you are an individual with a disability and wish to acquire this
+document in an alternative format, please contact the ADA coordinator,
+Office of Commissioner of Insurance, 2 Martin Luther King, Jr. Drive,
+Atlanta, GA, 30334. Telephone number: (404) 656-2056, 1-800-656-
+2298 outside Metro-Atlanta. For the hearing or speech impaired TDD:
+(404) 656-4031, 1-800-6564031 outside Metro Atlanta. Or, send e-mail
+to: personnel@oci.ga.gov.
+THE BUSINESS GUIDE TO INSURANCE
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 6 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 6 of 68
+There are many things to think about when doing business today, and among the
+most important are the amounts and types of insurance to carry in order to
+adequately protect your financial investment. Without proper protection, your
+business could be subject to financial ruin because of a property loss or a
+lawsuit resulting from your business activities. This guide has been developed
+by Insurance Commissioner John F. King to help you understand how to find
+the right insurance coverage for your business.
+
+NOTE: Words and phrases in bold are defined in the glossary.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 7 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 7 of 68
+I. PROPERTY AND LIABILITY INSURANCE
+Property and liability insurance (also known as property and casualty
+insurance) are two types of insurance which provide protection for losses
+resulting from your business activities. Each of these types of insurance
+consists of several different coverages. Coverages are included in a variety of
+policies and “packages.”
+A. PROPERTY INSURANCE
+One of the largest components of your financial investment is the
+building in which your business is housed and its contents. A general
+property insurance policy will provide coverage for buildings, contents,
+equipment, and other real and personal property owned by your
+business.
+Two types of property insurance policies are “named peril” and
+“all risk.” A named peril policy provides protection for specific events
+such as fire, windstorm, hail, vandalism, or sprinkler leakage. The
+policy only covers those events named in the policy and is usually less
+expensive because it provides less coverage than an all risk policy.
+An all risk policy provides protection for any loss by perils not
+specifically excluded in the policy. The term all risk does not mean that
+all losses will be covered. It only means that the losses that will not be
+covered are those that are specifically listed as exclusions in the policy.
+Property insurance can either be purchased on a “replacement cost”
+basis or an “actual cash value” basis.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 8 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 8 of 68
+Whether your business is insured for replacement cost or actual cash
+value, it is important to keep track of the value of your property. For
+your buildings, inflation tends to increase the replacement cost of your
+property, while the actual cash value may change over time, decreasing
+as the building depreciates, or increasing if the cost to rebuild increases
+faster than the depreciation.
+The value of your property can be determined by using the original
+construction costs or regional construction costs guidelines using guides
+available from insurers, builders or consultants. For the most accurate
+estimates or for unusual buildings or construction methods you may
+want to hire a professional appraiser. (See the discussion on selecting the
+amount of coverage that follows.)
+The value of personal property owned by the business can also vary over
+time not only from the same causes as the building, but from changes in
+the amount and nature of the property as well. If the value of your
+personal property varies greatly from time to time, or is shifted between
+two or more locations, consider a reporting form policy or a seasonal
+endorsement.
+If your business property includes valuable items such as fine art,
+antiques, accounts receivable, jewelry, valuable papers and records, or
+other kinds of property excluded or limited by your general property
+policy, you may need to buy an endorsement or a separate policy to
+increase your protection by specifically covering those items.
+You want to check with your agent or insurer for the extent of coverage
+on your computer system. Most basic policies cover only the value of
+the computer and the cost of blank discs, drives, or tapes.
+They do not cover the cost of reproducing the lost information. A
+special policy or endorsement may provide coverage.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 9 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 9 of 68
+SELECTING THE AMOUNT OF COVERAGE FOR
+BUILDINGS AND BUSINESS PERSONAL
+PROPERTY:
+Although individual situations vary, most business policies require
+that property be insured for at least 80 percent of its value. This
+percentage, called “coinsurance”
+, reflects the minimum amount of
+insurance you must have before most property insurance policies
+will fully reimburse you for partial losses. Remember, most losses
+are partial losses. The following example shows how a
+“coinsurance penalty” would work if you fail to insure your
+property for the amount required by your policy.
+As an example of what not to do: Let’s say you buy replacement
+cost insurance for a building you think will cost $100,000 to
+replace. You insure the building for $80,000 thinking you have
+satisfied an 80 percent coinsurance requirement. A fire loss causes
+damage to your building that will cost $40,000 to repair. Your
+building is subsequently determined to have a replacement cost of
+$120,000. Since the policy contained an 80 percent coinsurance
+clause, the building should have been insured for $96,000 (80
+percent of $120,000).
+To determine how much the insurance company will pay, divide
+the amount of insurance you purchased ($80,000) by the amount of
+insurance you should have purchased ($96,000). This equals 83.33
+percent. Multiplying this percentage times the amount of the loss
+determines the amount of payment (minus any deductible).
+.8333 x $40,000 = $33,332.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 10 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 10 of 68
+Even though the total amount of the loss was $40,000, the insurer
+will only pay $33,332 less the deductible, if any. The insurer
+would have paid the full $40,000 (less deductible) if the building
+had been insured for 80 percent of its actual replacement cost.
+Coinsurance usually applies to business personal property also,
+and may apply to builders’ risk insurance, business interruption
+insurance and crime insurance. It will affect the amount paid in
+the event of a loss in the same way as the illustration of the
+building loss.
+Check with your agent periodically to make sure your policy
+provides adequate coverage. You may be able to add an
+endorsement to the policy that automatically increases policy
+limits at pre-selected times. Even with this endorsement, check
+on the values and coverage frequently since inflation can take
+some odd turns and leave you under or over insured. Of course,
+you need to notify your agent whenever new property or
+operations are added.
+OTHER PROPERTY COVERAGE:
+Depending on the size of your business and the nature of your
+business operations, there are many related coverages which you
+may wish to incorporate into your total insurance package.
+Following are brief descriptions of some of these coverages.
+Builders’ Risk coverage. This insurance covers buildings
+in the course of construction. It can be written on a
+“completed value” form, which provides coverage for the full
+value of the finished building, or
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 11 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 11 of 68
+on a “reporting” form, which requires the insured to report
+the value of the building on a monthly basis. Other forms are
+also available such as “contractor’s automatic builders’ risk”
+form which provides automatic protection for thirty days on
+new construction projects. Most builders’ risk policies do
+not cover tools or building materials before the materials
+become a permanent part of the building. You may be able to
+purchase coverage separately or as an endorsement to the
+policy.
+Business Interruption insurance. Coverage is provided
+for loss of earnings of the business as a result of damage to or
+destruction of property. This coverage generally provides
+reimbursement for necessary salaries, taxes, rents, and other
+expenses that continue while the business is partly or totally
+inactive, plus net profits which would have been earned
+during the period of interruption, up to the limits of the
+policy.
+Extra Expense insurance. This coverage is similar to
+business interruption, but covers the additional expense of
+keeping the business going on as nearly the same basis as
+possible after a covered loss to buildings or business personal
+property. The additional expenses must be actually incurred
+to be covered.
+Rents or Rental Value coverage. Usually an
+endorsement to the building or personal property policy, it
+covers the lost rent or rental value while the building cannot
+be occupied due to a covered loss.
+Outdoor Signs coverage. These signs are not usually
+covered under a basic policy, but may be added by
+endorsement or by purchasing a separate policy.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 12 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 12 of 68
+Radio and TV Towers/Antennas coverage.
+Commercially used towers and antennas, such as those used
+to keep in contact with outside employees or to receive
+commercial transmissions, are usually not covered by the
+basic property policy. A separate policy is often needed to
+provide coverage.
+Inland Marine insurance. This insurance is written
+primarily to cover property in transit, as well as property in
+the custody of bailees, such as dry cleaners, processors,
+laundries, etc. This type of insurance may also be used to
+cover such things as sales samples, contractors’ equipment,
+patterns, exhibitions, boats designed for inland waters, and
+live animals.
+Ocean Marine insurance. Special policies cover ocean-
+going vessels, their cargo, and liability for operation of the
+vessel.
+Glass coverage. This insurance may be purchased to
+provide all risk coverage for breakage of glass that is a part
+of buildings and display cases. Insureds with large amounts
+of plate glass may want to buy this coverage to provide
+protection for damage otherwise excluded under most
+commercial property policies.
+Commercial Crime coverage. Insurance may be purchased
+to cover your business personal property in the event of
+burglary or robbery, or to protect against accepting
+counterfeit currency. Most crime policies do not cover
+money and securities unless the policy is specifically
+designed for that purpose, such as a money and securities
+policy, or the policy has an endorsement extending the
+coverage.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 13 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 13 of 68
+Boiler and Machinery insurance. This coverage
+provides protection for damages caused by, and to, certain
+pressure, mechanical, and electrical equipment which keeps
+the business in operation, and basically insures against the
+three major exclusions found in most property insurance
+policies:
+(1) boiler explosion;
+(2) mechanical breakdown; and
+(3) electrical arcing.
+Almost any type of equipment that controls, transmits, or
+uses high-pressure steam, mechanical, or electrical power can
+be insured under a boiler and machinery policy.
+Flood insurance. This insurance covers losses to
+buildings and their contents due to flooding caused by rising
+water. Generally, flood insurance is not sold by private
+insurance companies, and coverage for this peril is not
+covered under most property insurance policies. The federal
+government sells insurance for direct flood and flood-related
+damage including mudslide and erosion under the National
+Flood Insurance Program (NFIP). Some insurance companies
+also offer policies through the NFIP in their own names. For
+more information, contact your agent or call the National
+Flood Insurance Program at 1-800-427-4661. This coverage
+may also be available under motor truck cargo insurance
+policies, all risk transportation endorsements, and bailees’
+customers’ policies.
+Earthquake insurance. Coverage for earthquakes is
+usually available through an earthquake extension
+endorsement that, for an additional premium, extends
+coverage to earthquakes and volcanic eruption. This is
+generally written with a deductible that is a percentage of the
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 14 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 14 of 68
+value of the property that is damaged. It is important to
+discuss this coverage with your agent.
+Building Ordinance coverage. This is coverage against
+additional cost of repairs to the damaged property because of
+building codes or ordinances. The cost of bringing damaged
+buildings up to current building code standards is not covered
+in most basic policies, since even replacement cost policies
+only cover replacement or repairs with “like kind and
+quality.” Further, some building codes may require that a
+partially damaged building be torn down rather than repaired.
+Without special coverage, this additional cost would be
+excluded from the policies.
+Sprinkler Leakage coverage. This coverage protects
+against loss from the accidental leakage of a building
+sprinkler (fire suppression) system.
+GEORGIA UNDERWRITING ASSOCIATION
+If you cannot find an insurance company willing to insure your
+property, you can apply for coverage through the Georgia
+Underwriting Association (GUA), also referred to as the FAIR
+Plan. This association provides building and personal property
+insurance coverage against losses caused by fire, lighting, removal,
+windstorms, hail, explosion, riots, smoke, aircraft, and vehicles.
+Vandalism and malicious mischief coverage and, in some cases,
+burglary coverage can be included. In the coastal areas of
+Georgia, a policy covering only windstorm can be written to
+supplement coverage written through other insurers that have
+excluded wind coverage.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 15 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 15 of 68
+This program should be a last resort because the premium is
+generally higher and the coverage is frequently more limited than
+in policies sold by private insurers. For further information,
+contact your insurance agent or the GUA at the following address:
+Georgia Underwriting Association
+3355 Annandale Lane, Suite 3
+Suwanee GA 30024-2100
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 16 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 16 of 68
+B. LIABILITY INSURANCE
+A lawsuit could mean a catastrophic loss to your business. Therefore, it
+is important that you carry enough liability insurance to protect your
+business from financial loss because of injuries, deaths, or damage to
+property of others caused by your products, business operations, or
+employees. A liability policy generally will provide for your legal
+defense and will pay on your behalf if you are liable, up to the limits of
+your policy.
+Many different types of liability policies are available. Some of the
+major categories are explained below.
+A Commercial General Liability (CGL) policy provides many liability
+coverages under one contract. Two common types of liability coverage
+almost always written on this form are:
+Premises and Operations coverage. This insurance
+provides bodily injury and property damage liability
+coverage for accidents on your premises or arising out of
+your business operations.
+Products and Completed Operations. This coverage
+provides protection for liability arising from goods or
+products manufactured, sold, handled or distributed by your
+business after the product is given to others and is away from
+the business premises. It also provides coverage for claims
+occurring away from your premises that arise out of
+operations that have been completed or abandoned. Other
+liability coverages are available as an endorsement to the
+CGL policy or as separate policies. Some of these are:
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 17 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 17 of 68
+Owners’ and Contractors’ Protective Liability.
+This coverage will provide liability protection if you are
+sued because of the negligent acts or omissions of an
+independent contractor or subcontractor hired by you who
+could cause bodily injury or property damage to others.
+Directors and Officers Liability insurance. This
+coverage protects corporate officers and directors against
+claims brought by shareholders, employees, consumers,
+clients, or other businesses because of wrongful acts
+committed in the course of their duties as officers or
+directors. The coverage may be needed by directors and
+officers of both for profit and not-for-profit organizations.
+
+IMPORTANT: If you are a director of a corporation, whether or not you
+have any ownership interest, make sure you know what protections are in
+place for this exposure.
+Umbrella Liability insurance. This type of policy
+provides protection over and above the limits of basic
+liability policies such as commercial general liability
+policies and commercial automobile policies. It is sometimes
+available as an endorsement to other liability policies. To
+decide whether you need an umbrella policy, think of the
+most extreme situation that could happen in your business
+that would cause bodily injury or property damage and
+determine whether your current liability policies would cover
+this risk. In some cases, umbrella policies provide broader
+coverage (cover more kinds of accidents) as well as higher
+limits.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 18 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 18 of 68
+Professional Liability insurance. These policies cover
+liability claims arising from wrongful acts, errors and
+omissions, or malpractice by medical practitioners, attorneys,
+accountants, engineers, or other professionals.
+Errors and Omissions insurance. Like Professional
+Liability except this coverage is available for
+nonprofessionals who may be held liable for losses caused by
+their errors or oversights.
+Care, Custody, or Control. Most basic liability policies
+exclude property in the care, custody, or control of the
+insured. This is important if you have property of others that
+you work on, or store, or if you do work on the premises of
+others. For example, if you are painting an interior wall in a
+building, the windows, doors, and trim on that wall (not to
+mention that expensive artwork), and probably the floor,
+ceiling, and other walls adjacent to the wall you are painting
+are in your care, custody, or control. Damage to these items
+would not be covered under your liability policy. If your
+business may be exposed to such losses, ask your agent about
+coverage under your policy, and the cost to purchase
+coverage if it is excluded.
+Pollution. Basic business liability policies usually exclude
+damage caused by polluting the air, water or soil. Coverage
+can be added by endorsement for many businesses.
+However, businesses that have a particular exposure to
+pollution (such as a business using or handling chemicals)
+may need a separate pollution policy.
+BASIS FOR LIABILITY CLAIMS PAYMENT
+Be sure to ask your agent or insurer how your professional liability
+policy or your general liability policy pays claims. These policies
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 19 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 19 of 68
+may be written on either an “occurrence basis” or on a “claims-
+made basis.”
+A policy written on an occurrence basis covers incidents that occur
+during the policy period, regardless of when the claim is first made
+(even if it is made after the policy expires).
+A policy written on a claims-made basis covers only those claims
+which occurred after a date specified in the policy (usually called a
+“retro date”) and which are made during the policy period. Make
+sure you understand which claims (as well as what kind of claims)
+are covered.
+When a claims-made policy expires or is cancelled, it may be
+necessary to purchase “tail coverage.” Tail coverage covers claims
+resulting from incidents which occurred after the retro date but
+which are reported after the policy has terminated. According to
+Insurance Commissioner John F. King, you should ask your agent
+about any other changes or conditions in a claims-made policy
+which may necessitate the purchase of tail coverage and how long
+after the expiration, cancellation, or other change you have to
+exercise the option to purchase the tail coverage.
+COMBINATION POLICIES
+As you can see, it would be possible to purchase many separate
+insurance policies to cover a single business operation. Rather
+than shopping for each type of insurance you need individually,
+you may want to buy a combination policy, often called a “multi-
+peril” or “package” policy. This is a policy which can be tailored
+to suit your business needs and will provide both property and
+liability protection. For many businesses, it is the most efficient
+and economical way to buy insurance. One package policy
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 20 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 20 of 68
+frequently purchased by small to mid-size businesses is the
+Business Owners Policy (BOP). Another well-known commercial
+combination policy is the Commercial Package Policy (CPP).
+C. BONDS
+Surety Bonds. These bonds are a financial guarantee of your
+performance of a specific action. For example, a builder may be
+required by the client to buy a bond under the terms of a
+construction contract. If the builder fails to perform as agreed, the
+client can get a settlement. The bonding company will then seek
+reimbursement from the builder who is the principal under the
+surety bond. License and permit bonds are types of surety bonds
+that government agencies may require from businesses to
+guarantee their compliance with laws and ordinances and to
+guarantee that they will perform in good faith.
+Fidelity Bonds. This coverage provides protection against losses
+due to dishonest acts by employees. Bonds can be purchased to
+cover specific individuals or specific positions, or blanket bonds
+can be written to cover all employees of the organization.
+D. WORKERS’ COMPENSATION INSURANCE
+Georgia law requires that employers with three or more full or part
+time employees carry workers’ compensation coverage. You may
+obtain this coverage through a company licensed to sell workers’
+compensation insurance in Georgia, through membership in a
+group self-insurance fund licensed in Georgia, or through
+programs offered by licensed Life and Health insurers offering
+workers’ compensation alternative programs. You may also be
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 21 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 21 of 68
+eligible to be certified as an individual self-insurer. (See the
+discussion on self-funding on page 32.)
+To find out if an insurer or group workers’ compensation fund is
+licensed in Georgia, contact:
+Insurance and Safety Fire Commissioner
+John F. King
+(404) 656-2074
+For further information on the laws relating to workers’
+compensation insurance and qualifications for individual self-
+insurance, contact:
+Georgia Workers’ Compensation Board: (404) 656-4893 270
+Peachtree Street NW Atlanta, GA 30303-1299
+If you or your agent cannot find an insurer for your workers’
+compensation coverage, you can apply through your agent for
+insurance under the Georgia Workers’ Compensation Assigned
+Risk Plan. The Plan should be used as a last resort since rates will
+be higher than other sources. Your insurance agent can provide
+you with further information.
+
+CAUTION: If you use subcontractors in your business, make
+sure you discuss this with your agent or insurer. The Workers’
+Compensation Board has strict rules on who can be classified
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 22 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 22 of 68
+as a subcontractor. Further the workers’ compensation law makes
+primary contractors responsible for insurance on the “subs” if the
+subs do not carry insurance.
+E. MOTOR VEHICLE or “AUTOMOBILE” INSURANCE
+Georgia has a financial responsibility law which requires you to
+have insurance, or be a qualified self-insurer for liability claims
+resulting from motor vehicles you own or operate in connection
+with your business.
+One way of satisfying Georgia’s financial responsibility law is
+through insurance. If you buy insurance, your policy must contain:
+Bodily Injury and Property Damage Liability. This coverage
+provides protection in case you or drivers of your vehicle are
+responsible for causing injury or death to other people or damage
+to property of others.
+Also, the insurer must offer you:
+Uninsured Motorist coverage. This provides bodily injury and
+property damage protection to you if your vehicle is in an
+accident caused by an uninsured motorist or a “hit-and-run” driver.
+Georgia law requires you to carry the following minimum amounts
+of liability coverage, referred to as “limits.” These limits are
+subject to change by the General Assembly.
+Bodily Injury Liability. $25,000 limit for injury or death of one
+person, or $50,000 limit for injury or death of two or more people,
+as a result of any one occurrence.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 23 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 23 of 68
+Property Damage Liability. $25,000 limit for damage to property
+of others in any one occurrence.
+Most insurance companies sell an auto policy that contains a single
+limit for bodily injury and property damage liability instead of
+separate limits. This means that the maximum an insurer will pay
+for claims for any one occurrence is contained in a single limit.
+This single limit must be at least $75,000 to satisfy Georgia’s
+financial responsibility law.
+Another way to satisfy Georgia’s mandatory auto liability law is to
+self-insure. To do this you must register with the Office of
+Commissioner of Insurance and post securities for payment of
+claims.
+As a business owner, you should consider purchasing limits higher
+than the minimum limits required by law. Also, if you carry
+passengers or property for a charge (or even in some cases
+transport your own property), you may be subject to Georgia or
+U.S. motor carrier laws. If so, you will be required to carry more
+than these minimum limits of liability. You should check with
+your insurance agent to determine what types of coverage you
+need to operate commercial vehicles. You should also contact
+your city, county, and other state government agencies as well as
+the U.S.
+Department of Transportation and the Interstate Commerce
+Commission to check for any other insurance requirements.
+Many businesses have a liability risk due to non-owned
+automobiles, and not just businesses where employees regularly
+use their own vehicles for business purposes (such as pizza
+delivery). If your employee stops at the post office to drop off
+some business mail, or stops on the way to work to pick up donuts
+for the office, you could be held responsible in the event of an
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 24 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 24 of 68
+accident. Coverage is available as an addition to automobile
+policies and to some business package policies.
+Most businesses are eligible for the Business Auto Policy.
+However, certain auto-related businesses such as auto dealers,
+service stations, and trucking firms are not eligible for this policy.
+Garage policies and trucker’s policies are available to meet the
+insurance needs of these types of businesses. Ask your insurance
+agent which policy is best suited to your business.
+If you cannot obtain motor vehicle insurance from any insurer, you
+can apply through your agent for coverage from the Georgia
+Automobile Insurance Plan which is Georgia’s assigned risk plan
+for motor vehicle insurance. Like the Workers’ Compensation
+Assigned Risk Plan, the Automobile Plan should be used only as a
+last resort since rates will be higher than other markets. Your
+insurance agent can give you more information on this plan.
+DETERMINING YOUR PROPERTY AND
+LIABILITY INSURANCE RATES
+Insurance companies use their own underwriting standards to
+determine if your business is eligible for property and casualty
+insurance in that company and, if so, what price you should pay for
+the coverage. Depending on the type of business you own or
+operate, you may be placed in a classification with other similar
+businesses. You are then charged a premium based on the rate
+prevailing for the classification in which you are placed. If your
+business operation is very unique or specialized, the insurance
+company may have to develop an individual rate specifically for
+your business.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 25 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 25 of 68
+Many factors go into developing rates. In auto insurance, for
+example, rates are based on factors such as the type of vehicles
+driven, driving records of the operators of the vehicles, territory,
+expected mileage, usage, size and value of the vehicles, and loss
+history.
+In property insurance, rates are based on such things as territory,
+construction and occupancy of the building(s), loss prevention
+efforts, and fire protection.
+In general liability insurance, rates are based on a number of
+factors including territory, type of products sold or manufactured
+or operations performed, loss history, business experience, and size
+of the operation.
+Loss prevention and loss history have a great impact on what you
+pay for insurance. Safety programs that reduce the number and
+severity of losses, and loss control programs that help to control
+the costs of the losses that do occur are vital parts of an insurance
+or risk management program.
+We advise you to ask your agent and insurer what they can do to
+help you control your losses and the circumstance that create
+losses.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 26 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 26 of 68
+COMMISSIONER’S HELPFUL HINT: Rates and
+coverage availability varies from insurer to insurer.
+Therefore, you should comparison shop for insurance just as
+you do for other goods and services. Remember, like other
+goods and services, price is not the only factor. The
+assistance and expertise an agent or insurer can offer in loss
+prevention and loss control, and their response when a loss
+does occur, can be very valuable.
+In some types of insurance (most typically workers’ compensation
+insurance, general liability insurance, and insurance covering
+commercial vehicles) insurers will determine whether you are
+paying the proper amount of premium by conducting an audit.
+Company auditors may ask to examine your records in order to
+verify your company’s payroll, sales, gross receipts, or other facts.
+Your operations may also be reviewed to determine the proper
+classification for your business or employees. If you have a
+business auto policy or a trucker's policy, an audit may be
+conducted to verify which vehicles you own or operate and how
+your vehicles are used.
+Your policy’s original estimated premium may then be adjusted
+and, depending on the amount of the estimated premium
+deposited, the company will either collect an additional premium
+or make an appropriate refund.
+If one or more of your policies are subject to audit, make sure you
+understand just what records the insurer will want to see.
+Missing or incomplete records could cost you additional premium.
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 27 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 27 of 68
+
+CAUTION: If you use subcontractors, make sure you keep
+copies of evidence of the “subs” Workers’ Compensation, General
+Liability, and Auto insurance if your policies are subject to audit.
+Otherwise you could wind up with the subs insurance exposure
+included in your insurance costs.
+- - - - - - - - - - - - - - - - - - - - - -
+Georgia Insurance and Safety Fire Commissioner – Ver 01102019
+www.oci.ga.gov
+
+--- page 28 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 28 of 68
+II. LIFE AND HEALTH INSURANCE
+The options available to the business owner in these insurance areas can
+be divided into group insurance plans and specialized programs.
+A. GROUP INSURANCE
+Many businesses offer life and health insurance on an
+employer/employee group basis to their employees as part of
+the employee benefits package to attract and retain qualified
+employees. In Georgia, group life and health insurance can
+be written on groups as small as two (2) persons.
+Group Life Insurance. This coverage is most often
+offered as term insurance covering employees during the
+period of employment. It is commonly available as either
+a flat amount on each employee (such as $10,000 or
+$25,000), or as multiple of each employee’s salary (often
+offered as a choice of one, two, or three times earnings).
+Coverage for the employee’s spouse and dependent
+children is often offered as an option, but usually at much
+lower amounts.
+Group Health Insurance. This protection is available
+in many different forms and offers a wide variety of
+choices of health care providers. Some of the more
+common forms of this coverage are:
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 29 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 29 of 68
+Traditional Health Insurance. These plans pay the
+usual, customary, and reasonable charges for health care
+covered by the policy. The insured employee has the
+choice of health care providers, subject to the policy’s
+limitations, conditions, and special pre-approval
+requirements.
+Health Maintenance Organization (HMO). An
+HMO is an alternative to traditional health insurance. As a
+member of an HMO your employees must use the HMO’s
+health services providers and its facilities except for
+emergency care. A primary care physician will be chosen
+from the providers available and this physician will
+provide basic health care services and coordinate
+treatment by other health care specialists including
+hospitals. This physician is sometimes referred to as the
+gatekeeper.
+HMOs are licensed to serve certain geographic areas. To
+determine if an HMO is licensed to serve your area, call:
+Insurance and Safety Fire Commissioner
+John F. King:
+(404) 656-2074
+
+NOTE: After determining the HMO is licensed to service your
+area, you will need to contact them to see if they are operating
+there. Sometimes an HMO will be licensed for a certain territory,
+but not have active operations in the entire territory.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 30 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 30 of 68
+Point of Service Plans. These plans utilize the
+covered employee’s own family physician as a
+gatekeeper, subject to limitations set forth in the
+policy. Claims are usually paid on the same basis as
+the traditional health contract.
+Preferred Provider Organization (PPO). A
+PPO is an arrangement whereby the insurer or qualified
+self insurer contracts with a Network of preferred
+health care providers to serve the health needs of the
+group members. Using a provider not on the preferred
+provider list will result in the employee paying
+additional amounts out of his or her pocket for the
+services.
+Consumer Choice Option
+A consumer choice option is the ability for a Consumer
+to nominate a Georgia doctor or hospital of his or her
+choice who is not a participating provider under certain
+forms of managed care plans. A nominated provider
+who agrees to this plan will be treated as if he or she is
+a participating provider. The affected plans are HMO,
+PPO, Provider Sponsored Health Care Corporation
+Plans and other group or individual managed health
+care plans that cover comprehensive benefits.
+
+NOTE: As new combinations of health care delivery are tried the
+definitions become less stable. For instance, some traditional plans
+use gatekeepers similar to the description under Health
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 31 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 31 of 68
+Maintenance Organizations. Other plans combine various features
+of the different plans described here.
+Self-funded Plans. It is possible to self-insure your
+employees' health insurance coverage. To do so, you
+must file with the United States Department of Labor
+and follow their rules.
+Self-funding under “Multiple Employer Self-Insured
+Health Plans” is another option. These plans,
+sometimes known as “Multiple Employer Welfare
+Arrangements” or “Multiple Employer Trusts”
+(MEWAs or METs) must be licensed by the Insurance
+Commissioner. To determine if a plan is licensed, call:
+Insurance and Safety Fire Commissioner
+John F. King
+(404) 656-2074
+Other Group Coverage. Other insurance
+protections may be offered on a group basis. Some may
+be provided by a rider to a group life or health policy
+or offered as a separate group policy. A discussion of
+some of these options follows:
+Disability Insurance. This coverage replaces a
+portion of an employee’s salary when the employee is
+unable to work due to injury or illness. The amount of
+coverage is generally specified as a percentage of the
+covered person’s salary subject to a weekly or monthly
+maximum. Losses covered under the workers’
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 32 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 32 of 68
+compensation law are usually not covered under these
+policies. Two types of coverage are commonly offered:
+short-term and long-term disability.
+Short-term disability has a brief elimination period
+(usually 30 to 60 days) before benefits begin, and then
+pays the stipulated benefit for a relatively short time,
+commonly 6 to 12 months.
+Long-term disability has a longer elimination period
+(usually 6 to 12 months) and a longer benefit period,
+often two (2) years or more.
+
+CAUTION: The definition of “disability” varies from policy to
+policy. Make sure you understand exactly under what
+circumstances coverage will apply.
+Dental Insurance. Many of the same forms of
+coverage are available as under health insurance,
+including traditional, HMOs and PPOs.
+Vision Care Plans. These plans are also offered in a
+variety of forms.
+Specified Disease Policies. These plans usually
+pay in addition to other group medical coverage and
+provide additional insurance for the most expensive
+medical conditions, such as cancer or heart disease.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 33 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 33 of 68
+Accidental Death and Dismemberment. Often
+referred to as “AD&D”, this coverage provides lump
+sum payments in the event of death or loss of specific
+body parts or their functions due to accident.
+Travel Accident Insurance. This protection
+provides specific benefits for death occurring while a
+passenger is on public (or sometimes private)
+transportation. Additional benefits, similar to AD&D,
+can be added.
+Long Term Care Insurance. This coverage
+provides for nursing home or other care usually
+associated with aging. Various amounts, time limits,
+and types of care are covered.
+
+CAUTION: Long-term care coverage varies widely. It is very
+important to understand what type of care is covered, under
+what circumstances, and for how long.
+COMMISSIONER’S HELPFUL HINT: Group policies
+vary greatly. Be sure you are comparing the same coverage
+when comparing prices.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 34 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 34 of 68
+COMMISSIONER’S HELPFUL HINT: Requirements for
+participation by employees vary with the type of coverage
+and the percentage of cost paid by the employer. It also
+varies between insurers, so be sure you understand and
+compare participation levels.
+B. SPECIALIZED PROGRAMS
+These insurance products differ from group life or health
+insurance coverage in that they are designed to protect the
+business against loss when owner(s) or key employees die or
+are unable to work due to accident or illness. Some of the
+more common special business insurance coverages are
+described below.
+Business Overhead Expense Insurance. Coverage
+protects the smaller business in the event the
+owner/operator becomes disabled. The policy is usually
+written for a monthly benefit equal to the fixed expenses
+of the business. Thus the rent or mortgage payment,
+utilities, taxes, insurance and other fixed expenses can be
+paid while the owner recovers from the injury or illness.
+Key Employee Life Insurance. The death of a key
+person can mean the death of a business. To provide
+funds to search for or train a replacement and to make up
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 35 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 35 of 68
+for lost revenues during this period, key employee
+coverage can be purchased.
+Buy-Sell Agreements Coverage. These agreements
+are necessary to a smooth transition in the event of the
+death or disability of one of the owners of a business.
+After the agreement is drafted by your attorney, life and
+disability insurance may be purchased on each owner in
+amounts necessary to fund the buy-out of that owner’s
+share.
+- - - - - - - - - - - - - - - - - - - - - -
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 36 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 36 of 68
+III. ALTERNATIVE INSURANCE MARKETS
+Several alternatives exist if you choose not to buy insurance from
+an insurance company licensed in Georgia. You can self-fund,
+become a member of a group self-insurance fund or Multiple
+Employer Welfare Arrangement, join a risk retention or
+purchasing group, or purchase coverage through a surplus lines
+insurer. These alternatives are explained below. Insurance
+Commissioner John F. King reminds you that if you do not buy
+from an insurance company licensed in Georgia, you will not be
+afforded protection under the Georgia Insurers Insolvency Pool or
+the Georgia Life and Health Guaranty Association.
+The insolvency pool and Guaranty association are mechanisms
+licensed insurers must participate in to help offset claims of
+insurers who become financially impaired or insolvent.
+
+A. SELF-FUNDING
+Instead of paying an insurance company to assume your risk,
+you may retain the risk by setting aside money to pay
+damages or by paying damages with current operating
+revenues. This is called self-funding or self-insurance.
+CAUTION: Automobile liability and workers’ compensation
+coverage can be self-funded only with approval of the State.
+Self-funding of employee health benefits must have the
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 37 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 37 of 68
+approval of the U.S. Department of Labor. (See the
+discussions under these specific coverages.)
+The decision to self-fund should be made carefully. Most
+small businesses will not have the needed resources to
+properly finance and manage a self-funded program.
+Moreover, you will probably have to hire an administrator to
+manage your self-funded program properly. Other persons
+or businesses that require you to provide evidence of
+insurance may not readily accept a self-funded plan.
+B. WORKERS’ COMPENSATION GROUP
+SELFINSURANCE FUNDS
+Georgia law allows group self-insurance funds to be
+established for businesses that want to pool their liabilities to
+cover their workers’ compensation risks. In these group
+funds, the members are jointly and severally liable for the
+claims of the fund.
+The Insurance Commissioner’s office regulates these funds
+and can tell you if a particular group self-insurance fund is
+licensed to do business in Georgia. To check on whether a
+fund is licensed, call:
+Insurance and Safety Fire Commissioner
+John F. King:
+(404) 656-2074
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 38 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 38 of 68
+C. MULTIPLE EMPLOYER WELFARE
+ARRANGEMENT OR MULTIPLE EMPLOYER
+TRUSTS
+Known as MEWAs and METs, these group self-funded plans are
+licensed in Georgia as “Multiple Employer Self-Insured Health
+Plans.” To find out if a particular plan is licensed, call:
+Insurance and Safety Fire Commissioner
+John F. King:
+(404) 656-2074
+D. RISK RETENTION AND RISK PURCHASING
+GROUPS
+Federal law allows for the formation of Risk Retention Groups
+and Risk Purchasing Groups for the purpose of increasing the
+availability of commercial liability insurance.
+A Risk Retention Group must be chartered and licensed as an
+insurance company in one state and its members must engage in
+similar or common businesses or activities. A Risk Purchasing
+Group is composed of members which engage in similar or
+common businesses or activities and which buy insurance as a
+group rather than as individuals.
+Risk Retention and Risk Purchasing Groups may provide
+liability insurance at lower prices than you could find elsewhere.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 39 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 39 of 68
+However, depending on where these groups are located or
+chartered, they may be exempt from many state insurance laws,
+and you may not receive all of the protection afforded by
+Georgia insurance laws, including the protection of the insurers
+insolvency pool.
+These groups must register with the Insurance Commissioner’s
+Office. To find out if a particular group is registered to do
+business in Georgia, call:
+Insurance and Safety Fire Commissioner
+John F. King:
+(404) 656-2074
+or visit our website at: www.oci.ga.gov
+E. SURPLUS LINES INSURERS
+Surplus lines insurers, also called non-admitted insurers or
+excess and surplus insurers, are insurance companies not
+licensed in Georgia that provide coverage for hard-to-place
+risks. Surplus lines carriers must meet certain minimum capital
+and surplus requirements and minimum length of time in
+business. However, these insurers do not have to adhere to the
+rate and policy form requirements stipulated in Georgia
+insurance law so previous discussions of coverage, exclusions,
+or policy provisions may not apply. Also, insurance purchased
+through these insurers does not have the protection of the
+Georgia Insurers Insolvency Pool or the Georgia Life and Health
+Guaranty Association. Surplus lines coverage must be placed
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 40 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 40 of 68
+through a licensed Georgia surplus lines broker. Ask your agent
+for the financial rating of the surplus lines insurer.
+- - - - - - - - - - - - - - - - - - - - - -
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 41 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 41 of 68
+IV. SHOPPING TIPS
+Shop Around. Ask several agents or insurers for information on
+coverage and premiums. If you’re comparing premiums, be sure to
+ask for the same limits and coverage in order to make a proper
+comparison between costs. Then select the policy that best meets
+your over-all needs. If you decide to change insurers, make sure
+the new company accepts your application before you cancel your
+current policy.
+Check on Agents and Companies. Make sure both the agent and
+the insurance company (unless it is a surplus lines insurer) that you
+are dealing with are licensed in Georgia to sell the types of
+insurance you are purchasing. If you want to know whether an
+insurance company or agent is licensed, call:
+Insurance and Safety Fire Commissioner
+John F. King
+For Insurance companies (404) 656-2074
+For Insurance agents (404) 656-2100
+or visit our website at : www.oci.ga.gov
+Ask Your Friends, Neighbors, and Competitors. The best
+recommendation an agent or insurer can get is the satisfaction of
+someone whose judgement you trust.
+Keep Good Records. An inventory of your contents (business
+personal property), including original costs, is the best way to
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 42 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 42 of 68
+ensure your ability to make an accurate claim on business personal
+property to your insurance company. Copies of contracts,
+subcontractors proof of insurance, tax records, payroll records, and
+other business records may be invaluable in proving a loss as well
+as reducing the time your business is “down.” Give duplicates to
+your attorney or accountant, or keep them in a safe deposit box.
+Exclusions and limitations. Make sure you know what
+properties, events, or perils are not covered by the policy you are
+considering. Then you can decide whether to buy additional
+coverage in the form of an endorsement or a separate policy for
+the excluded events that are more likely to occur in your type of
+business.
+Loss Prevention. Many companies offer discounts if you practice
+good risk management or install protective devices such as a
+security system, smoke detectors, fire alarms, and sprinkler
+systems. Safety programs for your employees are also very
+important in reducing losses. Ask your agent if the company
+writing your insurance offers help for policyholders who want to
+identify ways to minimize insurance claims.
+COMMISSIONER’S HELPFUL HINT: One of the things to
+look for in selecting an agent or insurer is how much help they
+offer with safety and loss prevention programs.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 43 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 43 of 68
+Even if no rate discount is offered, these practices make good
+business sense. No insurance program, no matter how good, can
+totally compensate your business for all losses. If your most
+productive employee is out because of an injury, your business is
+going to suffer. The best “insurance” in this case is to prevent the
+injury in the first place.
+COMMISSIONER’S HELPFUL HINT: Talk to the Georgia
+Chamber of Commerce or your agent about the Drug Free
+Workplace Program.
+Consider a Higher Deductible. You can reduce your premium by
+raising the deductible on your policy. How high your deductible
+should be, depends on what you can afford to pay out of your own
+pocket if you have a loss. Make sure your deductible is high
+enough to reduce premiums, but not so high that a loss (or series of
+losses) will put a strain on your business.
+Don’t Under-insure. An inexpensive policy may not provide
+enough protection. It’s important that you determine how much
+protection you need and insure your property, income and
+liabilities for adequate amounts. Remember, some types of
+insurance coverage (building or business personal property,
+business interruption, certain crime coverage) may reduce the
+amount paid on claims if you do not purchase insurance that is at
+least as much as the coinsurance percentage or amount require.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 44 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 44 of 68
+THE BUSINESS GUIDE TO INSURANCE  V. WHAT INSURANCE IS REQUIRED?
+V. WHAT INSURANCE IS REQUIRED?
+LAW REQUIREMENTS:
+Automobile Insurance: Owners of automobiles are required
+to have liability insurance or to be a qualified self-insured
+under Georgia Law.
+Workers’ Compensation insurance: Georgia law
+requires all employers of three (3) or more full or part time
+employees to carry workers’ compensation coverage or to be
+a qualified self-insured.
+Other insurance: Many licenses, registrations, and
+permits required by federal, state, and local governments
+have an insurance requirement as part of the license,
+registration, or permit process.
+OTHER REQUIREMENTS:
+Many other parties may require evidence of insurance from a
+business. For example, suppliers of products and customers
+are often interested in the liability protection a business has.
+Mortgagees and lienholders usually require evidence of
+property insurance. Investors would want the business to
+have insurance sufficient to protect their interests.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 45 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 45 of 68
+VI. PROTECTIONS UNDER GEORGIA LAW
+INSURER GUARANTY FUNDS.
+For property and casualty insurance, including workers’
+compensation: The Georgia Insurers Insolvency Pool acts
+as a “safety net” if an insurer is declared insolvent and is
+unable to pay claims. Only insurance companies licensed in
+Georgia participate in the insolvency pool. The insolvency
+pool does not cover all claims or all situations.
+Coverage is not available under the Georgia Insurers
+Insolvency Pool if:
+- you have self-insured your risks;
+- you have insured your risks through a group self-
+insurance fund;
+- you have insured your risks through a risk retention
+group;
+- you have purchased insurance from a surplus lines
+carrier;
+- you have purchased insurance from any other type
+of company not licensed in Georgia; or,
+- if the insured has a net worth of more than
+$3,000,000.
+Also, coverage is not available under the Georgia Insurers
+Insolvency Pool for certain types of property and casualty
+insurance. This includes title insurance, fidelity and surety
+bonds, credit insurance, warranties or service contracts,
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 46 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 46 of 68
+mortgage guaranty insurance and other forms of insurance
+offering protection against investment risks, as well as
+insurance of vessels or craft used primarily in a trade or
+business, their cargo’s, and marine builders’ risk and marine
+protection and indemnity (liability).
+The insolvency pool covers claims, including claims for
+refund of premium, from $25 to $100,000. Workers’
+Compensation injury claims are not subject to the $100,000
+maximum.
+For life and health insurance: The Georgia Life and Health
+Guaranty Association provides for the payment of claims if
+an insurer is declared insolvent and is unable to pay. Only
+insurance companies licensed in Georgia participate in the
+insolvency pool. The insolvency pool does not cover all
+claims or all situations.
+Coverage is not available under the Georgia Life and Health
+Guaranty Association if:
+- you have self-funded your employee health plan
+either individually or through a multiple employer
+self-insured health plan;
+- you have your health plan with a Health
+Maintenance Organization;
+- you have purchased insurance from a health care
+corporation;
+- you have purchased insurance from a surplus lines
+carrier; or,
+- you have purchased insurance from any other type
+of company not licensed in Georgia.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 47 ---
+
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 47 of 68
+Also, coverage is not available under the Georgia Life and
+Health Guaranty Association for:
+- that portion or part of a variable life insurance or
+variable annuity contract not guaranteed by an
+insurer;
+- that portion or part of any policy or contract under
+which the risk is borne by the policyholder;
+- any unallocated annuity contract issued to an
+employee benefit plan protected under the federal
+Pension Benefit Guaranty Corporation; or,
+- any portion of any unallocated annuity contract
+which is not issued to or in connection with a
+specific employee, union, or association of natural
+persons benefit plan.
+The Guaranty Association covers contractual obligations of
+the insolvent insurer subject to the following maximums:
+Cash value, any one life $100,000
+All benefits, any one life $300,000
+Unallocated annuity, any
+one-contract holder
+$5,000,000
+NOTE: The Guaranty Association, subject to court approval, may
+impose moratoriums or liens on cash values or policy loans. Also
+certain policies may be restructured as to settlement options or
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 48 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 48 of 68
+interest guarantees.
+
+CAUTION: Limits on the maximum amounts payable under
+the Guaranty Association and the Insolvency Pool may leave
+you with uninsured losses in the event of insurer insolvency. It
+is important that you are satisfied with the financial rating of
+your insurer.
+CANCELLATION BY THE INSURER
+Workers’ Compensation Insurance: Insurance companies
+must give businesses 75 days advance notice of cancellations
+or non-renewals. A 45-day notice is required for a rate
+increase greater than 15%.
+Other Business Property and Liability Insurance: A 45-day
+advance notice must be given of cancellations, non-renewals,
+and rate increases greater than 15%.
+Accident and Sickness Insurance: Group health insurance is
+generally renewable at the option of the group policyholder.
+90 days notice is required if the insurer withdraws a group
+health product from sale to all its Georgia customers. Your
+insurer must offer you at least one other product. If your
+group health insurer is withdrawing all its group health
+products in the State, it must give 180 days advance notice.
+In these cases, you or your employees and dependent may be
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 49 ---
+
+
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 49 of 68
+eligible for continuation and/or conversion from group to
+individual insurance.
+EXCEPTION: Only a ten (10) day notice must be given for any
+cancellation during the first 60 days of the policy, or at any time
+during the policy if the reason for the cancellation is non-payment of
+premium. 31 days is the grace period under group accident and
+sickness.
+NOTE: A notice is not required for a rate increase that results from a
+change in your operations, a change in classification of your business,
+a change in your experience modification, or an audit or examination
+of your business.
+- Fair claims settlement. Insurers must investigate
+and settle claims in a prompt, fair, and equitable
+manner. They must respond to communications on
+claims in a timely fashion.
+- Health insurance conversion rights. A group
+health insurance policy must include, for
+individuals covered continuously for 6 months or
+more, the right to convert to an individual policy on
+termination of the group coverage.
+- Small group health insurance rates. The law
+places limitations on the way insurers calculate
+rates for groups of 50 or fewer. Georgia Law
+places limitations on certain forms of claims
+experience rating on small employer groups and
+requires “pooling” of claims experience of all small
+employers by an insurer.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 50 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 50 of 68
+- Availability of insurance. Last resort plans make
+workers’ compensation insurance, automobile
+insurance, and some forms of property insurance
+available when it cannot be purchased through the
+normal markets. See the Table of Contents for
+discussions of the Workers’ Compensation
+Assigned Risk Plan, the Georgia Automobile
+Insurance Plan, and the Georgia Underwriting
+Association.
+- Fraud. Insurance fraud countrywide is estimated to
+cost hundreds of millions of dollars each year. This
+is an expense all policyholders must ultimately bear
+in increased insurance costs. To combat this,
+Georgia has some of the toughest anti-fraud laws in
+the nation, and Insurance Commissioner John F.
+King office is very aggressive in pursuing insurance
+fraud. If you have information about suspected
+insurance fraud call:
+Insurance and Safety Fire Commissioner
+John F. King:
+(404) 656-2070
+- Arson. Each year in Georgia many lives are lost
+and millions of dollars worth of property is
+damaged or destroyed in fires. Some of these fires
+are started intentionally. The Commissioner has
+established the arson information reward program
+to provide incentives for the reporting of
+information leading to the arrest and conviction of
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 51 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 51 of 68
+arsonists. Calls to the arson hotline are
+confidential.
+To report suspected arson call:
+Arson Hotline:
+TOLL FREE (800) 282-5804
+- - - - - - - - - - - - - - - - - - - - - -
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 52 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 52 of 68
+VII. INSURANCE COMPLAINTS
+If you have a problem:
+Contact your agent or insurer. If you believe your insurer has
+not provided the coverage you agreed to, has improperly cancelled
+or non-renewed your policy, has not charged the proper premium,
+or has refused to pay all or part of a valid claim, you have a right to
+question and object. Sometimes a mistake has been made and it
+will be corrected if an inquiry is made. A complaint by letter is
+best. Keep a copy of your letter. If you decide to make a
+complaint by telephone, keep a written record of:
+− The date and time of your call;
+− The name of the person you talked to; and, −
+What was said during the call.
+Seek help from Commissioner Kings’ Office. If you do not
+receive a prompt, courteous and satisfactory response from the
+insurer or agent, you may need to get help to resolve your
+problem. The Department of Insurance provides free professional
+information and complaint services to all Georgia residents.
+Call or write:
+John F. King
+Insurance and Safety Fire Commissioner
+716 West Tower
+2 Martin Luther King, Jr. Drive
+Atlanta, Georgia 30334
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 53 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 53 of 68
+(404) 656-2070
+TOLL FREE (800) 656-2298
+Or, enter a complaint on our web complaint form:
+www.oci.ga.gov
+Or, you can visit the Department in the Floyd Building across
+Martin Luther King, Jr. Drive from the Capitol,
+Or, you can visit with a Department representative when they
+come to a city near you. Call (404) 656-2070 to find out when and
+where they will be, or visit our web site at:
+http://www.oci.ga.gov/ConsumerService/RegionalAssistance.aspx
+Or, fax your letter to us at (404) 657-8542.
+If you have a hearing or speech impairment, Insurance
+Commissioner John F. King’s office is readily available to you.
+Just call our TDD number.
+Atlanta toll free area (404) 656-4031
+Remainder of Georgia (800) 656-4031
+The Department of Insurance will:
+- Thoroughly investigate your complaint;
+- See that you get a clear response to your
+questions;
+- Cut through red tape; and,
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 54 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 54 of 68
+- Correct misunderstandings.
+But the Department cannot:
+- Force a favorable action on your complaint if it is
+not supported by facts and law; or,
+- Provide legal services that are sometimes required
+to settle complicated problems.
+If the Department is unable to resolve your problem, we will tell
+you why. If the law and facts are on your side, we will try to see
+that your rights are protected and that your complaints are resolved
+in a satisfactory manner.
+Loss Exposure Checklist
+The exposure check list on the following pages is intended to help
+you to determine your insurance needs and to create a record you
+can use in talking with your agent or insurer about your insurance.
+Not every business will have entries in every category, and some
+businesses will have special insurance needs that will require
+additional information.
+Since every business is unique, it is important that your agent and
+insurer know exactly what your business does and how it does it.
+You also may want to consider having an insurance counselor
+review your insurance coverage. A counselor charges for his or her
+services, but cannot receive a commission on the same insurance
+subject on which they charge a counselor’s fee. Thus they are
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 55 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 55 of 68
+working for you and have no incentive to recommend more or less
+insurance than is needed.
+The Insurance Commissioner licenses counselors. To determine if
+an individual is licensed, call:
+Insurance and Safety Fire Commissioner
+John F. King:
+(404) 656-2100
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 56 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 56 of 68
+LOSS EXPOSURE CHECKLIST
+I. DIRECT DAMAGE TO PHYSICAL ASSETS
+Location # _______________________________________
+Street Address: ___________________________________
+Building:
+Replacement Cost: $
+Actual Cash Value: $
+Glass: $
+Outdoor Signs: $
+Contents (business personal property)
+Replacement Costs: $
+Actual Cash Value: $
+Boiler and Machinery: $
+Data Processing Values:
+Hardware: $
+Cost to Reproduce Data: $
+Valuable Papers: $
+Customers Property: $
+Radio and TV Towers/Antennas: $
+Jewelry: $
+Antiques: $
+Fine Art: $
+Other Valuable Items: $
+Rent Income or Rental Value: $
+Does the Building Have ….
+Alarm System:
+Burglar: Yes/No
+Fire/Smoke: Yes/No
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 57 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 57 of 68
+Sprinkler System: Yes/No
+Watchman Service: Yes/No
+Other Security System: Yes/No
+Elevators or escalators: Yes/No
+Is the building subject to building codes or ordinances that
+Yes/No
+would increase the cost of repairs?
+Values for all locations combined $
+Contractors Equipment, total value:
+Accounts Receivable, maximum value:
+Motor Truck Cargo:
+Maximum any one vehicle: $
+Maximum all vehicles: $
+Maximum any one incidental Storage location: $
+Total Business Annual Income:
+Advertising Income:
+Payroll, total annual:
+Monthly extra expense necessary to keep your business
+operating if your building (s) could not be occupied due to
+a loss
+Maximum amount of your business’ money or securities
+handled by:
+Any one employee: $
+All employees: $
+Maximum amount of money or securities belong to others
+handled by:
+Any one employee: $
+All employees: $
+Values for all locations combined
+$
+Automobile Physical Damage:
+Attach list of vehicles
+___________
+# of vehicles deductible
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 58 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 58 of 68
+Collision: $
+Comprehensive: $
+Named Perils:
+Liability Limits needed: limit
+Automobile: $
+General Liability (non-auto): $
+Umbrella: $
+Other
+: $
+____________________
+Other
+: $
+____________________
+Crime Coverage: coverage
+Burglary:
+Robbery:
+Theft:
+Safe Burglary:
+Other
+Other
+Other
+Other
+____________________
+____________________
+____________________
+: $
+: $
+: $
+: $
+____________________
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 59 ---
+THE BUSINESS GUIDE TO INSURANCE  GLOSSARY  Page 59 of 68
+GLOSSARY
+Actual Cash Value:
+Buildings – replacement cost less depreciation
+Personal Property – the lesser of the sale price as between a
+willing buyer and seller or the cost to replace. (Your potential
+profit is not included.)
+All risk: A type of property policy covering all hazards of loss or
+damage that are not excluded. (See named perils.)
+Bailee: Entity that holds goods belonging to others in the normal
+course of business. (A public storage warehouse or a dry cleaner
+are examples.)
+Bodily Injury: Injury including death of a person. For insurance
+coverage to be available under a liability policy, the injury must
+arise out of a covered circumstance or activity, and be accidental.
+Boiler and Machinery: Equipment that controls, transmits, or uses
+mechanical or electrical power. Losses caused by electrical arcing,
+explosion, or breakup by centrifugal force can be insured under a
+boiler and machinery policy, but are usually excluded under basic
+property policies.
+Builders Risk: The term applied to the property risk and the
+special policy designed to cover the risk of a building under
+construction.
+Burglary: See Crime.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 60 ---
+THE BUSINESS GUIDE TO INSURANCE  GLOSSARY  Page 60 of 68
+Business Interruption: Loss of business income because of loss
+or damage to the building(s) or personal property of the business
+(insured under a business interruption policy or endorsement).
+Coinsurance:
+Property Insurance – a policy condition where, in return for a
+reduced premium, the insured agrees to maintain insurance
+on the property equal to or exceeding a specified percentage
+(the coinsurance percentage) of the value of the property.
+Health Insurance – the percentage “split” of covered medical
+expense between the insurer (or benefit plan) and the covered
+person, usually after a deductible is satisfied. (See
+Copayment.)
+Collision: One of the coverages under an automobile policy
+(covers the vehicle for loss or damage from collision with an
+object).
+Comprehensive: Under a motor vehicle policy, covers the auto for
+physical damage other than that covered by collision coverage
+(such as theft, fire, flood, or glass breakage).
+Contractors Equipment: Certain equipment (usually mechanical)
+used on job sites (insured under an inland marine policy called a
+contractor’s equipment floater).
+Copayment: The dollar amount the covered person pays under a
+health insurance policy, or health benefit plan, for each treatment
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 61 ---
+THE BUSINESS GUIDE TO INSURANCE  GLOSSARY  Page 61 of 68
+(or for each doctor or hospital visit, or for each prescription drug
+treatment, or other basis as specified in the policy or plan).
+Crime: There are several specific coverages that are included in
+this term. They can be purchased separately, or sometimes
+“packaged” in various combinations. Some of these individual
+coverages are:
+Burglary: The taking of property from locked or enclosed
+premises (requires evidence of forced entry).
+Robbery: The taking of property by violence or threat of
+violence (such as hold-up).
+Safe burglary: A special form of burglary coverage applying
+only to property taken from a safe or vault (requires forcible
+entry into the safe or vault).
+Theft: The broadest of the crime terms, meaning any act of
+stealing.
+Elimination period: In health insurance, the time between the
+occurrence of a claim and the beginning of benefits.
+Endorsement: A “rider” or “policy form” attached to a policy at
+its inception or at a later date that adds provisions, coverage,
+exclusions, or makes other changes to the policy.
+Estimated Premium: The premium charged at the beginning of a
+policy where the final premium will be determined after an audit
+(also used to designate the initial premium on a policy written
+subject to determination of correct classifications or rating).
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 62 ---
+THE BUSINESS GUIDE TO INSURANCE  GLOSSARY  Page 62 of 68
+Experience Modification: A factor applied to the policy premium
+that reflects the past claims experience of a business as compared
+to other businesses of the same type. This modification is most
+frequently used in Workers’ Compensation insurance.
+Extra Expense: The additional expenses necessary to keep a
+business functioning after a covered loss has occurred to the
+business property. This potential loss can be insured under a type
+of business interruption policy.
+Financial Rating: Several Services rate the financial strength of
+insurance companies. Among these are A. M. Best, Standard and
+Poor’s, Weiss Research, and Moody’s Investors Services. Many of
+these publications can be found in local libraries. Not all insurers
+are rated by all services. Some insurers, most notably alien
+insurers (those not headquartered in the U.S.) are not rated by any
+service. If this is the case, make sure the agent or surplus lines
+broker has reviewed the financial statements of the insurer.
+Gatekeeper: A healthcare professional the health insurer or health
+plan administrator designates to control and direct the management
+of health care services.
+General Liability: Liability for business operations (does not
+include liability for vehicles).
+Glass: Breakage coverage for building glass (windows and doors)
+and glass display cases can be obtained under a special policy or
+endorsement.
+Motor Truck Cargo: A form of inland marine insurance that
+covers shipments by motor vehicle. (Usually the policy covers a
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 63 ---
+THE BUSINESS GUIDE TO INSURANCE  GLOSSARY  Page 63 of 68
+specific territory or radius from a certain point and may cover risks
+incidental to the transportation, such as warehousing along the
+route or ferrying or “piggy-backing.”)
+Named Peril: Specific causes of loss named in an insurance
+policy. Causes not named are not covered. (See all risk.)
+Outdoor Signs: Signs on the exterior of buildings, or free
+standing. (They are usually excluded under basic property
+policies, but may be insured through special policies or
+endorsements.)
+Property Damage: Damage, including loss of use, to property of
+others. (For insurance coverage to be available under a liability
+policy, the damage must arise out of a covered circumstance or
+activity, and be accidental.)
+Purchasing Group: A group formed under federal risk retention
+act to purchase insurance for its members. (The group must register
+with the Insurance Commissioner.)
+Rental Value: The rents an owner-occupied building would
+command if it were rented. (This determines the coverage needed
+if the building cannot be occupied for a period of time because of a
+covered loss.)
+Replacement Cost: What it would cost to replace the property
+with new property of like kind and quality.
+Reporting Form: A method of determining the coverage and
+premium for certain property and casualty insurance policies,
+where the insured reports property values, payrolls, sales, or some
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 64 ---
+THE BUSINESS GUIDE TO INSURANCE  GLOSSARY  Page 64 of 68
+other business figures on a periodic basis (usually monthly or
+quarterly).
+Rider: See endorsement.
+Risk Management: The control of hazards or risk associated with
+business operations, and the management of claims; also, the
+process of funding claims or losses, including the decision of
+whether to insure, self-insure, or to use some other funding
+mechanism. (For example, one way to fund insurance on your
+building would be to sell the building to another party, then lease it
+back under a long-term lease with the stipulation that the owner
+maintains insurance.)
+Risk Retention Group: A business chartered and licensed as an
+insurance company in one state and, under federal law, allowed to
+insure its members in other states without being licensed in those
+other states or complying with most of those other states insurance
+laws.
+Robbery: See Crime.
+Safe Burglary: See Crime.
+Seasonal Endorsement: Provisions added to a policy covering
+personal property of the business that increases and decreases the
+coverage at predetermined times of the year. (Used to cover
+businesses with predictable seasonal variations in personal
+property values.)
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 65 ---
+THE BUSINESS GUIDE TO INSURANCE  GLOSSARY  Page 65 of 68
+Term Insurance: In life insurance, policies that exist for a
+predetermined time, such as the period of employment or until a
+certain age.
+Territory: As the context dictates, this term can refer to an area in
+which coverage applies, or the place where property is located (in
+the case of a motor vehicle, the place where the vehicle is
+principally garaged).
+Theft: See Crime.
+Usual, Customary, and Reasonable: Standards a health insurer
+uses to determine the amount it will pay on a covered claim. The
+standards refer to the amounts generally charged for the same
+healthcare service in the general area where the service was
+performed, or the reasonable charges for that service in the absence
+of comparable charges.
+Valuable Papers and Records: A type of policy or endorsement
+that covers documents valuable to the business, including the cost
+of reproducing the documents.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 66 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 66 of 68
+TELEPHONE NUMBERS FOR THE WORKERS’
+COMPENSATION BOARD
+To inquire about a Workers’ Compensation claim:
+(404) 656-3818
+To request information on becoming self-insured for
+Workers’ Compensation: (404) 656-4893
+TELEPHONE NUMBERS FOR COMMISSIONER’S
+OFFICE
+IMPORTANT: When calling to check on a license or registration,
+or to register a complaint, it is vital that you have the full correct
+name of the individual or business. Many individual’s names and
+business’ names are similar, so extra care in getting the name
+correct can help prevent errors. The following is a department
+directory for commonly asked questions.
+If you are calling: To see if an insurer is licensed:
+To see if an agent, counselor, or surplus
+lines broker is licensed:
+To see if a risk retention group or
+purchasing group is registered: Dial this number
+(404) 656-2074
+(404) 656-2100
+(404) 656-2074
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 67 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 67 of 68
+To see if an HMO is licensed:
+To see a workers’ compensation group
+self-insurance fund is licensed: To see if a multiple employer welfare
+arrangement (trust) is licensed: To arrange for a speaker for your group: (404) 656-2074
+(404) 656-2074
+(404) 656-2074
+(404) 651-7902
+To make a complaint or inquire as to the correctness of the Actions
+of an agent, counselor, surplus lines broker, or insurer:
+(404) 656-2070
+To request information on becoming self-insured for
+Automobile liability: (404) 656-2074
+TO REPORT A SUSPICIOUS FIRE
+Arson hot line TOLL FREE (800) 282-5804
+TO REPORTED SUSPECTED INSURANCE FRAUD
+(800) 726-6070
+*ALL CALLS REMAIN ANONYMOUS*
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov
+
+--- page 68 ---
+THE GEORGIA BUSINESS GUIDE TO INSURANCE  Page 68 of 68
+FOR HELP WITH YOUR INSURANCE QUESTIONS OR
+PROBLEMS
+(800) 656-2298
+If you have a speech or hearing impediment call:
+Metro-Atlanta (404) 656-4031
+Remainder of Georgia (800) 656-4031
+THE NUMBERS FOR THE WORKERS’
+COMPENSATION BOARD
+To inquire on a Workers’ Compensation Claim To request information on becoming
+Self-insured for Workers’ Compensation (404) 656-3818
+(404) 656-4893
+NOTE: If you are an individual with a disability and wish to
+acquire this document in an alternative format, please contact the
+ADA Coordinator, Office of Commissioner of Insurance, 2 Martin
+Luther King, Jr. Drive, Atlanta, Georgia 30334. Telephone
+number (404) 656-2056, for the hearing or speech impaired TDD,
+Atlanta Toll free area (404) 656-4031, Remainder of Georgia (800)
+656-4031.
+Georgia Insurance and Safety Fire Commissioner – Ver 02-115-11
+www.oci.ga.gov

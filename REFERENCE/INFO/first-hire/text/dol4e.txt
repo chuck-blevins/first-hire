@@ -1,0 +1,247 @@
+SOURCE FILE: REFERENCE/INFO/first-hire/dol4e.pdf
+TEXT EXTRACTED: 2026-10-25 (machine extraction; layout and tables may be garbled; scanned pages may be missing)
+STATUS: see REFERENCE/INFO/first-hire/SOURCES.md for what this document is and whether it is outdated
+
+
+--- page 1 ---
+Information
+about
+Unemployment
+Insurance
+for
+Employers
+Domestic Employers must file an annual report (Form DOL-
+4A) by January 31st of the following year.
+Address changes are required by law to be reported to
+the Department immediately and may be updated on the
+Department’s web site.
+The Employer’s Quarterly Tax and Wage Report and total pay-
+ment of tax due must be submitted within a month after the
+quarter ending date. (i.e. April 30th, July 31st, October 31st, and
+January 31st. A penalty is imposed for late filing of the report,
+and interest is charged for unpaid taxes. Penalty is assessed
+at the greater of .05% of total wages for the tax period or $20
+per month or fraction of a month that reports are delinquent.
+Interest is charged on unpaid tax at 1½% per month or frac-
+tion of a month from the due date until payment is received.
+NOTE: If the due date falls on a weekend or legal holiday,
+quarterly and annual reports are due on the next business
+day.
+Suggestions when submitting reports:
+ Go to http://dol.georgia.gov, Forms and Publications,
+select Document Type Unemployment Tax, click on
+Employer’s Quarterly Tax and Wage Report - DOL4N to
+complete the PDF form, Part I and Part II. Mail the original.
+
+Payroll listing and additional pages on Part I of the
+DOL-4 should follow the format indicated
+
+Use standard 8 1/2" x 11" paper when printing the
+form for mailing
+
+Submit accurate and complete social security
+numbers for all employees
+
+Check your calculation of taxes
+
+Use total tax rate, which includes the Administrative
+Assessment portion of the tax rate
+
+Provide correct Federal ID information
+NOTE: This information is intended to help employers meet
+responsibilities under the law. It does not have the effect of
+law or regulations. It does not cover all applications of the
+law or answer all questions. Employers can call the Employer
+Accounts Unit at 404.232.3220 with questions or comments.
+Any employer interested in reporting by magnetic media
+can visit our web site at http://dol.georgia.gov to obtain
+specifications. Employers can also contact the Magnetic
+Media Unit at 404.232.3265 for questions regarding report-
+ing by magnetic media.
+Employers with more than 100 employees are required to
+submit quarterly reports by magnetic media, unless filing
+via Internet. Employers do not need to submit a paper copy
+of their tax and wage reports if they file via Internet or via
+Magnetic Media.
+The Georgia Department of Labor offers the following
+resources online:
+
+Information on unemployment taxes & benefits
+
+Information on how employers can protect their
+tax experience rate
+
+Information to determine if an employer is
+exempt from paying UI taxes
+
+Information on filing tax & wage reports
+
+Information on making payments online via ACH Debit
+
+Assistance concerning a layoff or plant closure
+
+Information on filing partial unemployment
+insurance claims
+
+How to obtain information about an employment issue
+
+How to recruit new employees
+
+Information on tax credits & incentives
+
+Labor Market Information
+
+Locating workforce & business development resources
+
+Information on the Workforce Investment Act
+
+Child Labor information
+DOL-4E (R-9/16)
+Tax Reporting
+and
+Liability
+Reporting Taxes and Wages
+The Employer’s Quarterly Tax and Wage Report, Form DOL-
+4 Parts I and II, is available on the Department’s web site
+http://dol.georgia.gov or by contacting Employer Accounts
+at 404.232.3220. All employers are encouraged to file their
+quarterly Tax and Wage Reports and pay their taxes online.
+
+--- page 2 ---
+The Employment Security Law and the Rules of the Georgia
+Department of Labor require employers to submit true and
+accurate information to the department.
+What is Unemployment Insurance?
+Unemployment Insurance (UI) provides temporary income
+to replace a portion of wages lost by workers who have lost
+their jobs through no fault of their own. Employers pay
+for unemployment insurance as a business cost through
+the State Unemployment Tax Act (SUTA) and the Federal
+Unemployment Tax Act (FUTA).
+How do I set up an Account?
+Employers doing business in the state of Georgia must
+complete an Employer Status Report, Form DOL-1A. This
+form is available electronically at http://dol.georgia.gov or
+by contacting the Adjudication Section at 404.232.3301.
+Who is liable for unemployment tax?
+
+A private business with at least one worker in 20 dif-
+ferent calendar weeks during a calendar year or with
+a payroll of at least $1,500 in any calendar quarter
+
+An employer who acquired all or substantially all
+of a liable business in Georgia
+
+A 501(c)(3) non-profit organization with at least
+four workers in 20 different weeks during a calendar year.
+(An officer or director must be included in this count if
+they perform any services, paid or unpaid.)
+
+An agricultural employer who has 10 or more
+workers on any day during 20 different weeks in a
+calendar year, or with $20,000 or more in gross
+payroll for any calendar quarter
+
+An employer with domestic employment in a
+private home, college club, fraternity or sorority
+with a payroll of at least $1,000 in any calendar
+quarter (Domestic employers file their tax and
+wage reports annually.)
+
+An employee leasing company or temporary help
+contracting firm that supplies individuals to
+perform services for clients or customers
+
+If approved by the Commissioner, an employer
+voluntarily choosing coverage not required by law
+
+An employer liable for FUTA
+Who is an employee?
+A full-time or part-time worker as defined by the Employ-
+ment Security Law and the Rules of the Georgia Department
+of Labor or an officer of a corporation (including sub-chapter
+S corporations) performing services.
+Who is not an employee?
+ A sole proprietor in the operation of his or her
+own business
+
+The spouse, parent or child (under the age of 21)
+of a sole proprietor
+
+Partners, if the business is operated under a partnership
+
+Employees of a church or religious order, or certain
+church-related schools
+
+Insurance agents or solicitors and real estate sales
+agents paid solely by commission
+
+Students, if the employment is a recognized part
+of a program which combines academic instruction
+with work experience
+
+Individuals performing services for a hospital in
+a clinical training program for a period of one year
+immediately following the completion of a four-
+year course in a medical school chartered and
+approved pursuant to state law
+
+Workers hired for casual labor not in the usual
+course of business, unless the cash remuneration
+is $50.00 or more in any calendar quarter
+
+Student nurses in the employ of a hospital or
+nurses training school
+
+Patients performing services in a hospital
+
+Newspaper carriers under 18 years of age
+
+An independent contractor who meets the
+following condition(s):
+l. The worker has been and will continue to be free from
+control or direction over the performance of services,
+both under the contract of service and in fact; and, such
+individual is customarily engaged in an independently
+established trade, occupation, profession or business
+or
+2. The worker and the services performed for wages are
+the subject of an SS-8 determination by the Internal
+Revenue Service which decided against employee status.
+Other employment may be exempt under the law. Specific
+questions regarding coverage should be directed to the
+Adjudication Section at 404.232.3301.
+What are wages?
+Wages include all remuneration for personal services, in-
+cluding commissions and bonuses, and the cash value of
+all remuneration paid in any medium other than cash. The
+reasonable cash value of remuneration in any medium other
+than cash shall be estimated and determined by the Com-
+missioner in accordance with the Employment Security Law.
+Taxable Wage Base and Tax Rate
+Employers are liable to pay UI Tax or UI Contributions
+on wages paid to employees subject to statutory
+coverage.
+The taxable wage base is the maximum amount on which
+an employer must pay taxes for each employee. The tax-
+able wage base in Georgia increased from $8,500 to $9,500
+beginning 2013.
+A Tax Rate Notice, Form DOL-626, is mailed each year to all
+active employers indicating the tax rate for the following
+year. Newly liable employers are assigned a beginning tax
+rate of 2.70%.
+Tax rate calculations consider the history of both unemploy-
+ment insurance contributions and benefits paid to former
+workers, growth of an employer's payroll and the overall
+unemployment conditions for the state. Employers that fail
+to receive a Tax Rate Notice or have questions about a tax
+rate should contact the Rate Unit at 404.232.3300.
+SUTA Dumping
+SUTA Dumping is the name for a broad group of tax avoidance
+practices sometimes used by employers to improperly and
+quickly reduce their unemployment tax rates. SUTA Dump-
+ing improperly shifts the cost of providing unemployment
+compensation from the SUTA Dumping employer to all other
+employers in the state. Additional information regarding
+SUTA Dumping regulations can be obtained from our website
+at http://dol.georgia.gov.

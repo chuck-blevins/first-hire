@@ -1,0 +1,178 @@
+SOURCE FILE: REFERENCE/INFO/first-hire/dol4a.pdf
+TEXT EXTRACTED: 2026-10-25 (machine extraction; layout and tables may be garbled; scanned pages may be missing)
+STATUS: see REFERENCE/INFO/first-hire/SOURCES.md for what this document is and whether it is outdated
+
+
+--- page 1 ---
+COMPLETING PARTS I AND II OF ANNUAL TAX AND WAGE REPORT
+FOR DOMESTIC EMPLOYMENT, FORM DOL-4A
+Part I
+Enter your DOL account number, the report year, employer name, mailing address, and email
+address. Note: If you are a new employer and have not yet been assigned a DOL account
+number, enter "Applied For" in the account number field and attach a DOL-1A, Employer
+Status Report, if not previously submitted.
+Enter the Social Security Number, last name, first name, and total covered wages paid in
+each quarter separately. All wages paid to an employee must be reported by the employer
+for the quarter in which payment was actually made.
+Part II
+Line 1 Amount of total reportable gross wages paid for all employees. Show the amount paid
+for each quarter separately.
+Line 2 Subtract non-taxable wages (amount of wages above $9500 per employee per calendar
+year) as applicable for each quarter.
+Line 3 Enter the difference between Lines 1 and 2. This amount is used to calculate the
+amount of taxes to be paid.
+Line 4 In the area provided, enter the Contribution Tax Rate. Use the Contribution Tax rate as
+provided on your Annual Tax Rate Notice.
+Line 5 In the area provided, enter the Administrative Assessment rate. Use the Administrative Assessment
+rate as provided on your Annual Tax Rate Notice.
+Line 6 Line 7 Line 8 Line 9 Line 10 Line 11 Line 12 *The total tax rate is contribution + administrative assessment.
+The sum of Lines 4 and 5 for each quarter.
+Enter the amount of taxes previously paid for this reporting year.
+Enter the difference between Lines 6 and 7.
+The sum of each quarter from Line 8.
+Interest is computed on the tax due (Line 9) from the due date (January 31) at the rate
+of 1.5% per month or fraction of a month. Interest accrues until all tax and
+administrative assessments are paid.
+Enter penalty if the report is filed after January 31. Penalty is $20 or .05% (.0005) of
+total wages whichever is greater, for each month the report is late. Compute penalty as
+.05% (.0005) of total wages whenever total wages for the quarter are more than
+$40,000.
+Enter the sum of Lines 9 through 11.
+Changes in your business information should be reported in Sections A-D at the bottom of Part II.
+For assistance with completing Sections A-D, call the Adjudication Section at 877-709-8185.
+Sign and mail the report, Parts I and II, no later than January 31.
+Visit dol.georgia.gov for online payment options or make check or money order payable
+Georgia Department of Labor and provide your DOL account number on your check.
+EL6103 DOL-4A Instr. (R-11/22)
+
+--- page 2 ---
+ANNUAL TAX AND WAGE REPORT FOR DOMESTIC EMPLOYMENT -
+48999
+PART I
+GEORGIA DEPARTMENT OF LABOR - P.O. BOX 740234 - ATLANTA, GA 30374-0234
+Phone 1-877-709-8185
+www.dol.state.ga.us
+DOL Account Number Year
+(Employer's Name)
+Parts I & II of this report must always be
+submitted.
+(Street Address)
+(Street Address)
+(City)
+(State)
+(Zip + 4)
+(email Address)
+1. Social Security Number Social Security Number 2. Employee's Name (If blank, please enter.) Full Last Name, Full First Name
+3. Total Individual
+Reportable Gross Wages
+$ March 31
+$ June 30
+For Quarter Ending
+$ September 30
+$ December 31
+$ March 31
+Social Security Number
+Full Last Name, Full First Name
+$ June 30
+$ September 30
+$ December 31
+$ March 31
+Social Security Number
+Full Last Name, Full First Name
+$ June 30
+$ September 30
+$ December 31
+Social Security Number
+Full Last Name, Full First Name
+$ March 31
+$ June 30
+$ September 30
+$ December 31
+Social Security Number
+Full Last Name, Full First Name
+Wage SheetsPage 1 of 1
+TOTAL REPORTABLE GROSS
+WAGES PAID THIS YEAR
+$ March 31
+$ June 30
+$ September 30
+$ December 31
+$
+MESSAGE AREA
+EL6101 DOL-4A (R-11/22)
+
+--- page 3 ---
+ELECTRONIC FORM PROCESSING ANNUAL TAX AND WAGE REPORT FOR DOMESTIC EMPLOYMENT -
+PART II
+GEORGIA DEPARTMENT OF LABOR - P.O. BOX 740234 - ATLANTA, GA 30374-0234
+Phone 1-877-709-8185
+www.dol.state.ga.us
+DOL Account Number Year Total Tax Rate Form must be Filed By
+48999
+DO NOT staple any items to this page.
+First Quarter Second Quarter Third Quarter Fourth Quarter
+1. Total REPORTABLE GROSS WAGES
+Paid Each Quarter
+2.
+MINUS Non-Taxable Wages Paid Each Quarter
+3.
+TAXABLE WAGES Paid Each Quarter
+4.
+Contribution Tax Due:
+5.
+X taxable wages (line 3)
+Administrative Assessment Due:
+X
+taxable wages (line 3)
+6. Total Amount Due: (SUM of lines 4 and 5)
+7. Taxes Previously Paid (if any)
+8. BALANCE DUE: (Line 6 minus 7)
+9. ANNUAL TAX DUE : (SUM of line 8 for all quarters listed on this report)
+10. If report is late, amount of Interest due :(See instructions)
+11.11. If report is late, amount of Penalty due :(See instructions)
+12. TOTAL AMOUNT DUE (SUM of lines 9 thru 11)
+$
+$
+$
+UNLESS PARTS I & II OF THIS REPORT ARE FILED AND THE TOTAL AMOUNT
+DUE IS PAID, A FI. FA. (TAX LIEN) WILL BE ISSUED AS REQUIRED BY LAW.
+$
+Return these forms (Parts I & II) with
+check payable to GA DEPT of LABOR or
+visit www.dol.state.ga.us for outline
+payment options.
+/ /
+FOR DEPT USE ONLY
+EMPLOYER CHANGE REQUEST - If ANY of the following items have changed, please complete the appropriate information below. Phone 1-877-709-8185
+A . If your MAILING ADDRESS has changed, or is incorrect, enter
+B. If your PHYSICAL LOCATION has changed or is incorrect, enter
+the correct information below:
+the correct information below:
+(Street Address) (Street Address)
+(Street Address) (Street Address)
+(City) (State) (Zip) (City) (State) (Zip)
+( )
+(
+)
+(Phone) (Phone)
+C . If you no longer have domestic workers, please give us the last
+date you had such workers:
+Effective Date (MM/DD/YY) /
+/
+E-mail address:
+D. If the Federal Identification number listed below is incorrect, list
+the correct number in the spaces provided:
+(Employer's Name)
+(Street Address)
+(Street Address)
+(City)
+(State)
+(Zip + 4)
+I certify that the information contained in this report and any
+subsequent pages attached is true and correct and that no part of
+the tax was or is to be deducted from the worker's wages.
+(email Address)
+Signature and title of individual responsible for information provided Phone Number
+EL6102
+Date
+DOL-4A (R-11/22)

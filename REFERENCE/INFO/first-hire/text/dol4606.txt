@@ -1,0 +1,100 @@
+SOURCE FILE: REFERENCE/INFO/first-hire/dol4606.pdf
+TEXT EXTRACTED: 2026-10-25 (machine extraction; layout and tables may be garbled; scanned pages may be missing)
+STATUS: see REFERENCE/INFO/first-hire/SOURCES.md for what this document is and whether it is outdated
+
+
+--- page 1 ---
+REQUIREMENTS FOR
+ELECTRONIC FILING OF
+QUARTERLY TAX &
+WAGE REPORTS
+￼
+￼
+DOL-4606 (R-09-23)
+
+--- page 2 ---
+1
+TABLE OF
+CONTENTS
+ONLINE
+SUBMISSION
+Requirements for Electronic Filing of Quarterly Tax &
+Wage Reports
+Employers are required to file their Quarterly Wage and Tax Reports electronically when reporting
+25 or more employees. Quarterly Wage and Tax Reports may be submitted electronically via
+GDOL’s website at dol.georgia.gov.
+The following guidelines describe the Georgia Department of Labor’s (GDOL) requirements for
+electronic submission of your Quarterly Wage and Tax Report. Adhering to these guidelines
+will ensure timely processing of your reports. Failure to submit electronic tax and wage files in
+accordance with these guidelines will result in the rejection of your reports and can result in late
+filing penalties.
+If you have questions and/or concerns, contact the GDOL Electronic Filing Unit at (404) 232-3265
+or UITax_ElectronicFileUpload@gdol.ga.gov.
+Online Submission ................................................................................. 1
+Online Filing ............................................................................................ 2
+
+--- page 3 ---
+2 3
+ONLINE
+FILING
+The Internet Tax and Wage System (ITWS) allows employers to file their Quarterly Tax and Wage
+Reports on the GDOL website at dol.georgia.gov by manually entering wage data or uploading a
+Microsoft Excel or CSV wage file. The Wage File Upload Service only accepts these two file types.
+The wage records must be in the approved record layout as specified below and saved as either
+a Microsoft Excel or Comma-separated Values (CSV) file. A template of each file type is available
+to download upon logging into the Internet Tax and Wage system. Files will only be accepted in
+the approved record layout. Failure to adhere to these specifications will result in the rejection of
+wage files, and late filing penalties, if the reports are not submitted timely.
+Online Wage File Upload Record Layout Specifications
+Position/
+Column Field Name Type/Size Alignment Required Description
+1 Social Security
+Number N-11 Right Justified Y
+Enter the employee’s SSN
+(Example: 123-45-6789 or
+123456789). This is a numeric
+field. Dashes are acceptable.
+2 Employee’s
+Full Last Name A-25 Left Justified Y
+Enter the employee’s full last
+name using alpha
+characters only.
+3 Employee’s
+Full First Name A-20 Left Justified Y
+Enter the employee’s full first
+name using alpha
+characters only.
+4 Middle Initial A-1 Left Justified N
+Enter the employee’s middle
+initial using alpha
+characters only.
+5 Wage Amount N-12 Right Justified
+Enter the total reportable
+gross wages (including tips)
+minus 125 Cafeteria Plan paid
+during the reporting period.
+This is a numeric field.
+Commas are acceptable.
+Example: 12,345.67. Do not
+enter $.
+6 Minor Indicator A-1 Left Justified
+Enter “Y” if the employee is
+under 18 years old. Enter
+“N” if the employee is older
+than 18.
+Wage File Example
+SSN Last Name First Name MI Wage
+Amount Under 18
+123456789 LLLLLLLLLLLLLLLLLLLL FFFFFFFFFFFFFFFF I 9,999.99 N
+101112134 DOE JOHN 1,300.00 Y
+326445698 DOE JANE X 9,500.00 N
+To prevent the rejection of online Quarterly Tax and
+Wage Reports, DO NOT SUBMIT:
+• Wage records without the full nine-digit valid social security numbers.
+• Negative wages or adjustments to tax or wage reports electronically. To amend previously filed
+reports, complete the Report to Add New Wages and/or Correct Reported Wages (DOL-3C) form
+found under Forms and Publications on the GDOL website at dol.georgia.gov.
+File Processing
+It may take up to three (3) hours for a wage file to process. A status email will be sent to the email
+address provided when the file is uploaded. If a file is rejected, you will have 24 hours to correct
+and resubmit the corrected wage file to complete the quarterly filing.

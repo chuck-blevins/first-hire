@@ -1,0 +1,125 @@
+SOURCE FILE: REFERENCE/INFO/first-hire/TSD_Employees_Withholding_Allowance_Certificate_G-4.pdf
+TEXT EXTRACTED: 2026-10-25 (machine extraction; layout and tables may be garbled; scanned pages may be missing)
+STATUS: see REFERENCE/INFO/first-hire/SOURCES.md for what this document is and whether it is outdated
+
+
+--- page 1 ---
+[ ]
+Form G-4 (Rev. 06/03/26)
+STATE OF GEORGIA EMPLOYEE’S WITHHOLDING ALLOWANCE CERTIFICATE
+1a. YOUR FULL NAME 1b. YOUR SOCIAL SECURITY NUMBER
+2a. HOME ADDRESS (Number, Street, or Rural Route) 2b. CITY, STATE AND ZIP CODE
+PLEASE READ INSTRUCTIONS ON REVERSE SIDE BEFORE COMPLETING LINES 3 – 8
+3. MARITAL STATUS
+Enter letter below on Line 7. 4. DEPENDENT ALLOWANCES
+A.Single
+B.Married Filing Separate or Married Filing Joint, both spouses working 5. GEORGIA ADJUSTMENTS ALLOWANCE [ ]
+C.Married Filing Joint, one spouse working (See instructions for details. Worksheet below must
+be completed)
+D.Head of Household
+6. ADDITIONAL WITHHOLDING $____________
+WORKSHEET FOR CALCULATING ADDITIONAL ALLOWANCES
+(Must be completed for step 5)
+A. Federal Estimated Itemized Deductions (If Itemizing Deductions).............................
+................................
+................................
+................................
+....................................................................
+.....................................................
+...................................................................................................
+...................................................................
+.......................................................................
+...................................
+$
+______________
+______________
+______________
+______________
+______________
+______________
+______________
+______________
+B. Georgia Standard Deduction (enter one): $
+C. Subtract Line B from Line A (If zero or less, enter zero) $
+D. Allowable Georgia Adjustments to Federal Adjusted Gross Income $
+E. Add the Amounts on Lines C and D $
+F. Estimate of Taxable Income not Subject to Withholding $
+G. Subtract Line F from Line E (if zero or less, stop here) $
+H. Divide the Amount on Line G by $5,000. Enter total here and on Line 5 above
+(This is the number of Georgia Adjustments Allowances you can claim. If the remainder is over $2,500 round up)
+7. LETTER USED (Marital Status A, B, C or D) ___________ TOTAL ALLOWANCES (Total of Lines 4 and 5) ___________
+(Employer: The letter indicates the tax tables in Em ployer’s Tax Guide)
+8. EXEMPT: (Do not complete Lines 4 - 7 if claiming exempt) Read the Line 8 instructions on page 2 before completing this section.
+a) I claim exemption from withholding because I incurred no Georgia income tax liability last year and I do not expect to
+have a Georgia income tax liability this year. Check here
+b) I certify that I am not subject to Georgia withholding because I meet the conditions set forth under the Servicemembers
+Civil Relief Act as provided on page 2. My state of residence is ________________. My spouse’s (servicemember) state
+of residence is
+________________
+. The states of residence must be the same to be exempt. Check here
+I certify under penalty of perjury that I am entitled to the number of withholding allowances or the exemption from withholding status
+claimed on this Form G-4. Also, I authorize my employer to deduct per pay period the additional amount listed above.
+Employee’s Signature________________________________________________________ Date _________________
+Employer: Complete Line 9 and mail entire form only if the employee claims over 14 allowances or exempt from withholding. If
+necessary, mail form to: Georgia Department of Revenue, Taxpayer Services Division, P.O. Box 105685, Atlanta, GA 30348-5685
+9. EMPLOYER’S NAME AND ADDRESS: EMPLOYER’S FEIN:____________________________
+EMPLOYER’S WH#:____________________________
+Do not accept forms claiming additional allowances unless the worksheet has been completed. Do not accept forms
+claiming exempt if numbers are written on Lines 4 - 7.
+Single/Head of Household $15,000
+Married Filing Joint $30,000
+Married Filing Separate $15,000
+
+--- page 2 ---
+G-4 (Rev . 06/03/26)
+INSTRUCTIONS FOR COMPLETING FORM G-4
+Enter your full name, address and social security number in boxes 1 a through 2b.
+Line 3: Write the letter on Line 7 according to your marital status.
+A. Single
+B. Married Filing Separate or Married Filing Joint, both spouses working
+C. Married Filing Joint, one spouse working
+D. Head of Household
+Line 4: Enter the number of dependent allowances you are entitled to claim. The term "dependent" shall have the same meaning as in the
+Internal Revenue Code of 1986; provided, however, that any unborn child with a detectable human heartbeat, as such terms are
+defined in Code Section 1-2-1, shall qualify as a dependent minor.
+Line 5: Complete the worksheet on Form G-4 if you claim Georgia adjustment allowances. Enter the number from Line H here.
+Failure to complete and submit the worksheet will result in automatic denial on your claim.
+Line 6: Enter a specific dollar amount that you authorize your employer to withhold in addition to the tax withheld based on your
+marital status and number of allowances.
+Line 7: Enter the letter of your marital status from Line 3. Enter total of the numbers on Lines 4 and 5.
+Line 8:
+a) Check the first box if you qualify to claim exempt from withholding. You can claim exempt if you filed a Georgia income tax
+return last year and the amount of Line 16 of Form 500 was zero, and you expect to file a Georgia tax return this year and
+will not have a tax liability. You cannot claim exempt if you did not file a Georgia income tax return for the previous tax
+year. Receiving a refund in the previous tax year does not qualify you to claim exempt.
+EXAMPLES: Your employer withheld $500 of Georgia income tax from your wages. The amount on Line 16 of Form 500 was
+$100. Your tax liability is the amount on Line 16; therefore, you do not qualify to claim exempt.
+Your employer withheld $500 of Georgia income tax from your wages. The amount on Line 16 of Form 500 was $0 (zero). Your
+tax liability is the amount on Line 16 and you filed a prior year income tax return; therefore you qualify to claim exempt.
+b) Check the second box if you are not subject to Georgia withholding and meet the conditions set forth under the Servicemembers
+Civil Relief Act. Under the Act, a spouse of a servicemember may be exempt from Georgia income tax on
+income from services performed in Georgia if:
+1. The servicemember is present in Georgia in compliance with military orders;
+2. The spouse is in Georgia solely to be with the servicemember;
+3. The servicemember maintains domicile in another state; and
+4. The domicile of the spouse is the same as the domicile of the servicemember or the spouse of the servicemember has
+elected to use the same residence for purposes of taxation as the servicemember.
+Additional information for employers regarding the Military Spouses Residency Relief Act:
+1. On the W-2 the employer should not report any of the wages as Georgia wages.
+2. If the spouse of a servicemember is entitled to the protection of the Military Spouses Residency Relief Act in another
+state and files a withholding exemption form in such other state, the spouse is required to submit a Georgia Form G-4
+so that withholding will occur as is required by Georgia Law when a Georgia domiciliary works in another state and
+withholding is not required by such other state. If the spouse does not fill out the form, the employer shall withhold
+Georgia income tax as if the spouse is single with zero allowances.
+Worksheet for calculating additional allowances. Enter the information as requested by each line. For Line D, enter items such as
+Retirement Income Exclusion, U.S. Obligations, and other allowable deductions per Georgia Law, see the IT-511 booklet for more
+information.
+Do not complete Lines 4-7 if claiming exempt.
+O.C.G.A. § 48-7-102 requires you to complete and submit Form G-4 to your employer in order to have tax withheld from you r
+wages. By correctly completing this form, you can adjust the amount of tax withheld to meet your tax liability. Failure to submit a
+properly completed Form G-4 will result in your employer withholding tax as though you are single with zero allowances.
+Employers are required to mail any Form G-4 claiming more than 14 allowances or exempt from withholding to the Georgia
+Department of Revenue. Employers should honor the properly completed form as submitted unless otherwise notified by the
+Department. Such forms remain in effect until changed or until February 15 of the following year. Employers who know that a
+G-4 is erroneous should not honor the form and should withhold as if the employee is single claiming zero allowances until a
+corrected form has been received.
