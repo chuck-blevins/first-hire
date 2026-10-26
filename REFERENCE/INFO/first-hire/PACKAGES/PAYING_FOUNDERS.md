@@ -6,7 +6,7 @@ jurisdiction: [US-federal, GA]
 tags: [founder-compensation, s-corp, llc, c-corp, estimated-taxes, self-employment-tax]
 audience: [pre-revenue, funded-2-10]
 related: [ga-employer-taxes, equity-for-early-hires, exempt-vs-nonexempt-pay-rules, delaware-entity-in-georgia, payroll-peo-and-benefits]
-last_verified: 2026-10-25
+last_verified: 2026-10-26
 status: active
 ---
 
@@ -30,7 +30,7 @@ If nothing is withheld from what you take, pay quarterly estimates to the IRS (1
 
 **1. Single-member LLC (disregarded).**
 - **Not an employee:** the LLC "is not the employer of its owner," so no W-2 for you ([26 CFR 301.7701-2(c)(2)(iv)(C)(2)](https://www.law.cornell.edu/cfr/text/26/301.7701-2); [IRS: SMLLCs](https://www.irs.gov/businesses/small-businesses-self-employed/single-member-limited-liability-companies)). Draws move cash whenever you like. Profit is what's taxed, taken or not.
-- **SE tax:** 15.3% (12.4% Social Security + 2.9% Medicare) on 92.35% of net SE earnings of $400 or more. You deduct half, on Schedule SE ([IRS Topic 554](https://www.irs.gov/taxtopics/tc554)). The Social Security part stops at the $184,500 2026 wage base ([2026 Form 1040-ES](https://www.irs.gov/pub/irs-pdf/f1040es.pdf) p.9). An extra 0.9% Medicare applies above $200,000 single / $250,000 joint ([Topic 554](https://www.irs.gov/taxtopics/tc554)). Hired employees go on payroll under the LLC's own EIN (`REFERENCE/INFO/first-hire/2026 Employers_Tax_Guide.pdf` p.28).
+- **SE tax:** 15.3% (12.4% Social Security + 2.9% Medicare) on 92.35% of net SE earnings of $400 or more. You deduct half, on Schedule SE ([IRS Topic 554](https://www.irs.gov/taxtopics/tc554)). The Social Security part stops at the $184,500 2026 wage base ([2026 Form 1040-ES](https://www.irs.gov/pub/irs-pdf/f1040es.pdf) p.9). For 2027 earnings, SSA announced a $192,300 base on Oct 14, 2026 ([SSA](https://www.ssa.gov/oact/cola/cbb.html)); use it for 2027 estimated-tax planning. An extra 0.9% Medicare applies above $200,000 single / $250,000 joint ([Topic 554](https://www.irs.gov/taxtopics/tc554)). Hired employees go on payroll under the LLC's own EIN (`REFERENCE/INFO/first-hire/2026 Employers_Tax_Guide.pdf` p.28).
 
 **2. Multi-member LLC (partnership).**
 - **Not employees:** "Partners are not employees and shouldn't be issued a Form W-2"; they get a K-1 ([IRS: Partnerships](https://www.irs.gov/businesses/small-businesses-self-employed/partnerships)). No withholding, FICA or FUTA on partner payments (`REFERENCE/INFO/first-hire/p15.pdf` p.51).
@@ -119,6 +119,7 @@ Kruze Consulting's 2026 payroll data on VC-backed clients shows CEO pay around *
 |------|------------------------|-----------------|---------------|
 | SE tax rate / base / threshold | 15.3% on 92.35% of net SE earnings; $400 minimum | IRS Topic 554 | 2026-10-25 |
 | 2026 Social Security wage base | $184,500 (matches GA_EMPLOYER_TAXES.md) | 2026 Form 1040-ES p.9; Pub 15 p.2 | 2026-10-25 |
+| 2027 Social Security wage base | $192,300 (announced by SSA Oct 14, 2026; matches GA_EMPLOYER_TAXES.md) | https://www.ssa.gov/oact/cola/cbb.html (returns 403 to automated checks; read from the Internet Archive capture of 2026-10-20); 2027 Form 1040-ES when published | 2026-10-26 |
 | Additional Medicare (SE) | 0.9% over $200K single / $250K MFJ / $125K MFS | IRS Topic 554 | 2026-10-25 |
 | Form 2553 deadline | 2 months 15 days after start of tax year (Mar 15 for calendar year) | i2553 (Rev. 12/2020) | 2026-10-25 |
 | Late S election relief | Within 3 years 75 days (Rev. Proc. 2013-30) | i2553 | 2026-10-25 |

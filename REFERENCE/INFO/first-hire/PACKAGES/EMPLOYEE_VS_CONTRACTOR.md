@@ -6,7 +6,7 @@ tags: [worker-classification, independent-contractor, form-1099-nec, ip-assignme
 jurisdiction: [US-federal, GA]
 audience: [pre-revenue, funded-2-10]
 related: [first-hire-checklist, exempt-vs-nonexempt-pay-rules, ga-employer-taxes, equity-for-early-hires, paying-founders, headcount-triggers-and-compliance-calendar, remote-and-out-of-state-hires, payroll-peo-and-benefits]
-last_verified: 2026-10-25
+last_verified: 2026-10-26
 status: active
 ---
 
@@ -55,13 +55,18 @@ The FLSA governs minimum wage and overtime. A misclassified employee can lose bo
 
 **4. Penalties for getting it wrong.**
 - **Federal:** you owe the employer share of FICA and are liable for income tax you didn't withhold. You can't recover the employee share from the worker. Reduced section 3509 rates may apply. They are higher if you never filed 1099s, and they aren't available if you intentionally disregarded the rules (`p15.pdf` p.15). The **Section 530 relief** provision needs a reasonable basis plus consistent 1099 filing. The **Voluntary Classification Settlement Program (VCSP)**, filed on Form 8952, lets you reclassify going forward with partial relief (`p15.pdf` p.15).
+- **VCSP specifics (IRS):**
+  - *Eligibility:* you must have consistently treated the workers as contractors, including filing all required Forms 1099 for them for the previous three years. You can't currently be under an IRS employment tax audit, or under a DOL or state agency audit about these workers' classification. If the IRS or DOL audited their classification before, you qualify only if you complied with the result and aren't contesting it in court.
+  - *Payment:* 10% of the employment tax liability that would have been due on the workers' compensation for the most recent tax year, computed at the reduced section 3509(a) rates. No interest or penalties on that amount, and no employment tax audit of those workers' classification for prior years.
+  - *Timing:* file Form 8952 at least 120 days before the date you want to start treating the workers as employees.
+  - Source: [IRS VCSP page](https://www.irs.gov/businesses/small-businesses-self-employed/voluntary-classification-settlement-program) (checked 2026-10-26).
 - **Georgia UI:** penalty of $20 or 0.05% of gross payroll, whichever is greater, per month delinquent, plus 1.5% interest per month on the extra tax due (`dol224.pdf` p.146). GA DOL rules also allow a per-employee penalty under O.C.G.A. § 34-8-257 and an investigation fee ([GA DOL rulemaking notice, 06/15/2026](https://dol.georgia.gov/document/gdol-rules/rulemaking-notice-06-15-2026/download) p.7). The per-employee amount was not confirmed.
 
 **5. Cost comparison (example: $120,000 salary, Georgia, 2026)**
 
 | Cost | Employee | Contractor (1099) |
 |------|----------|-------------------|
-| Employer Social Security, 6.2% up to $184,500 in wages | $7,440 | $0 |
+| Employer Social Security, 6.2% up to $184,500 in wages (2026; $192,300 for 2027) | $7,440 | $0 |
 | Employer Medicare, 1.45%, no cap | $1,740 | $0 |
 | FUTA, 0.6% net on first $7,000 (`p15.pdf` p.44) | $42 | $0 |
 | GA SUTA, new employer 2.70% total on first $9,500 ([GA DOL FAQ](https://dol.georgia.gov/faqs-employers/employers-faqs-unemployment-insurance)) | $256.50 | $0 |
@@ -69,21 +74,21 @@ The FLSA governs minimum wage and overtime. A misclassified employee can lose bo
 | Benefits (health, PTO, 401k) | Your choice. ACA mandate starts at 50+ full-time equivalents (`dol224.pdf` p.31) | None |
 | **Required payroll tax total** | **about $9,479 (7.9%)** | **$0. Expect a higher rate, since contractors pay their own self-employment tax and benefits** |
 
-FICA rates and wage base: `p15.pdf` pp.1–2.
+FICA rates and wage base: `p15.pdf` pp.1–2. For 2027, SSA announced a Social Security wage base of $192,300 on Oct 14, 2026 ([SSA](https://www.ssa.gov/oact/cola/cbb.html)). A $120,000 salary is under both the 2026 and 2027 bases, so the employer Social Security cost in this example is $7,440 in either year.
 
 ## Steps
 1. **Run the employee-vs-contractor decision checklist at the end of these steps.** Write down your reasoning. The IRS expects you to document it ([IRS](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)).
 2. **Sign the IP agreement before work starts.**
    - *Contractor:* use a written **IP assignment** agreement. Software usually isn't one of the nine categories of commissioned work that can be "work made for hire," so the contract must *assign* the rights. A copyright transfer must be in writing and signed ([Copyright Office Circular 30](https://www.copyright.gov/circs/circ30.pdf) pp.2–3; 17 U.S.C. § 204(a)). Add confidentiality terms and a list of any prior inventions the contractor is excluding.
    - *Employee:* code written within the scope of the job is generally work made for hire (Circ. 30 p.2). Still use a **PIIA** (Proprietary Information and Inventions Assignment) agreement to cover patents, inventions, side work, and confidentiality.
-3. **Contractor path:** collect **Form W-9** (rev. 03/2024) before the first payment ([IRS](https://www.irs.gov/forms-pubs/about-form-w-9)). Pay on invoices, with no withholding. By **January 31**, send **Form 1099-NEC** to the contractor and file it with the IRS if you paid **$2,000 or more** in 2026 ($600 for 2025 payments). If you file 10 or more information returns of any type in total, you must e-file ([1099-NEC instructions](https://www.irs.gov/instructions/i1099mec); `p15.pdf` p.7).
+3. **Contractor path:** collect **Form W-9** (rev. 03/2024) before the first payment ([IRS](https://www.irs.gov/forms-pubs/about-form-w-9)). Pay on invoices, with no withholding. By **January 31**, send **Form 1099-NEC** to the contractor and file it with the IRS if you paid **$2,000 or more** in 2026 ($600 for 2025 payments). If you file 10 or more information returns of any type in total, you must e-file ([1099-NEC instructions](https://www.irs.gov/instructions/i1099mec); `p15.pdf` p.7). Georgia DOR doesn't need a copy of a 1099-NEC unless it reports Georgia tax withheld. In that case it goes with Form G-1003 (`REFERENCE/INFO/first-hire/2026 Employers_Tax_Guide.pdf` p.7, 19–20).
 4. **Employee path:**
    - Register for GA withholding ([GA DOR](https://dor.georgia.gov/taxes/register-new-business-georgia)) and for a GA DOL UI account (file the DOL-1A after the first payroll) ([GA DOL FAQ](https://dol.georgia.gov/faqs-employers/employers-faqs-unemployment-insurance)).
    - Collect **Form W-4** ([IRS](https://www.irs.gov/forms-pubs/about-form-w-4)) and **Form G-4** (Rev. 06/03/26, `TSD_Employees_Withholding_Allowance_Certificate_G-4.pdf`).
    - Complete **Form I-9**. The employee fills out Section 1 by the first day of work, and you complete Section 2 within 3 business days (`i-9instr.pdf` p.1). Keep it 3 years after hire or 1 year after termination, whichever is later ([USCIS](https://www.uscis.gov/i-9)).
    - Get a workers' comp policy once you hit 3 employees.
-   - You, the founder, manage accounts in the [Georgia Tax Center](https://gtc.dor.ga.gov/_/) and the [GA DOL Employer Portal](https://eresponse.gdol.ga.gov/idp/sso/employer/login).
-5. **Unsure? File Form SS-8,** or ask a CPA. If you've already misclassified someone, ask about the VCSP (`p15.pdf` p.15).
+   - You, the founder, manage accounts in the [Georgia Tax Center](https://gtc.dor.ga.gov/_/) and the [GA DOL Employer Portal](https://www.dol.state.ga.us/public/uitax/emplportal/login), the link on GA DOL's Online Services page. An alternate login URL, https://eresponse.gdol.ga.gov/idp/sso/employer/login, also loads.
+5. **Unsure? File Form SS-8,** or ask a CPA. If you've already misclassified someone, ask about the VCSP (`p15.pdf` p.15). File Form 8952 at least 120 days before you want to start treating the workers as employees ([IRS VCSP](https://www.irs.gov/businesses/small-businesses-self-employed/voluntary-classification-settlement-program)).
 
 **Contract-to-hire:** this is a legitimate way to try out a working relationship. The contract phase still has to pass the IRS common-law test, Georgia's UI test, and the FLSA economic-reality test. A "trial" contractor who works your hours, on your roadmap, with your tools, may already be an employee. Keep it project-scoped and time-boxed, with an IP assignment in place from day one. When you convert, start fresh with full employee onboarding (W-4, G-4, I-9, PIIA). *(No official source addresses contract-to-hire specifically. This applies the IRS common-law test and Georgia's UI test.)*
 
@@ -105,7 +110,7 @@ Two or more "yes" answers: treat this as an employee hire, or talk to a professi
 | IRS Form SS-8 | https://www.irs.gov/forms-pubs/about-form-ss-8 | Official status ruling |
 | IRS Pub 15 (2026) | https://www.irs.gov/pub/irs-pdf/p15.pdf | FICA, FUTA, section 3509, relief |
 | 1099-MISC/NEC instructions | https://www.irs.gov/instructions/i1099mec | Threshold, deadline, e-file |
-| IRS VCSP | https://www.irs.gov/VCSP | Fixing past misclassification |
+| IRS VCSP | https://www.irs.gov/businesses/small-businesses-self-employed/voluntary-classification-settlement-program | Fixing past misclassification: eligibility, 10% payment, 120-day filing rule |
 | DOL: FLSA misclassification | https://www.dol.gov/agencies/whd/flsa/misclassification | Federal wage-law test |
 | 2026 DOL proposed rule | https://www.govinfo.gov/content/pkg/FR-2026-02-27/html/2026-03962.htm | Current FLSA status |
 | GA DOL Employer Handbook | https://dol.georgia.gov/documents/employer-handbook | GA UI coverage test, penalties |
@@ -118,6 +123,7 @@ Two or more "yes" answers: treat this as an employee hire, or talk to a professi
 | Item | Value as of last check | Where to verify | Last verified |
 |------|------------------------|-----------------|---------------|
 | Social Security rate / wage base | 6.2% each side / $184,500 (2026) | `p15.pdf` pp.1–2; IRS.gov/Pub15 | 2026-10-25 |
+| 2027 Social Security wage base | $192,300 (announced by SSA Oct 14, 2026) | https://www.ssa.gov/oact/cola/cbb.html (returns 403 to automated checks; read from the Internet Archive capture of 2026-10-20) | 2026-10-26 |
 | Medicare rate | 1.45% each side, no cap | `p15.pdf` p.2 | 2026-10-25 |
 | FUTA | 6.0% on first $7,000; 0.6% after the full 5.4% credit | `p15.pdf` p.44; Form 940 instructions | 2026-10-25 |
 | FUTA credit reduction states | Georgia is not a credit-reduction state (not on the final 2025 list or the 2026 potential list). The final 2026 list comes after Nov 10, 2026 | https://oui.doleta.gov/unemploy/futa_credit.asp | 2026-10-25 |
@@ -134,6 +140,9 @@ Two or more "yes" answers: treat this as an employee hire, or talk to a professi
 | FLSA contractor rule | 2024 rule on the books; DOL not enforcing it since 05/01/2025; 02/27/2026 proposal not final | Federal Register; DOL WHD | 2026-10-25 |
 | Form revisions | W-9 rev. 03/2024; G-4 rev. 06/03/26; I-9 edition 01/20/25; SS-8 rev. 12/2023 (inferred from file label) | IRS, GA DOR, USCIS form pages | 2026-10-25 |
 | SS-8 processing time | "At least six months" | IRS contractor page | 2026-10-25 |
+| VCSP terms | 10% of one year's employment tax liability at reduced § 3509(a) rates; Form 8952 at least 120 days before the reclassification date; 3 years of 1099s; no current IRS employment tax audit or DOL/state classification audit | https://www.irs.gov/businesses/small-businesses-self-employed/voluntary-classification-settlement-program | 2026-10-26 |
+| GA DOL Employer Portal URL | https://www.dol.state.ga.us/public/uitax/emplportal/login (linked from Online Services); https://eresponse.gdol.ga.gov/idp/sso/employer/login also loads | https://dol.georgia.gov/online-services | 2026-10-26 |
+| Which 1099s go to GA DOR with the G-1003 | Only 1099s reporting GA withholding (or qualified overtime or cash tips); 1099-K and 1099-DA always | `2026 Employers_Tax_Guide.pdf` p.7, 20 | 2026-10-26 |
 
 ## When to bring in a professional
 - **Employment attorney:** you're paying a 1099 developer who works full-time hours, only for you, on your core product. Also talk to one if a worker files an SS-8 or a UI claim, or if GA DOL opens an audit.

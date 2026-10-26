@@ -27,7 +27,7 @@ How to use this:
 | GA DOL: Employers | https://dol.georgia.gov/employers | Employer hub | Live | 2026-10-25 |
 | GA DOL: Taxes and UI claims | https://dol.georgia.gov/employers/taxes-unemployment-insurance-claims | Unemployment insurance (UI) tax and claims | Live | 2026-10-25 |
 | GA DOL: Employer FAQs | https://dol.georgia.gov/faqs-employers | Employer FAQs | Live | 2026-10-25 |
-| GA DOL: Employer portal | https://eresponse.gdol.ga.gov/idp/sso/employer/login | Employer account (DOL, not DOR). The DOL Online Services page now links to https://www.dol.state.ga.us/public/uitax/emplportal/login, so confirm which URL is current | Founder portal (we don't log in) | 2026-10-25 |
+| GA DOL: Employer portal | https://www.dol.state.ga.us/public/uitax/emplportal/login | Employer account (DOL, not DOR). This is the URL the DOL Online Services page links (confirmed 2026-10-26). The older https://eresponse.gdol.ga.gov/idp/sso/employer/login (from `links.md`) also loads; treat it as an alternate | Founder portal (we don't log in) | 2026-10-26 |
 | GA DOR: Register a new business | https://dor.georgia.gov/taxes/register-new-business-georgia | Registering for state taxes | Live | 2026-10-25 |
 | GA DOR: Withholding tax | https://dor.georgia.gov/taxes/withholding-tax-employers | State withholding for employers | Live | 2026-10-25 |
 | GA DOR: Georgia Tax Center | https://gtc.dor.ga.gov/_/ | DOR account portal | Founder portal (we don't log in) | 2026-10-25 |
