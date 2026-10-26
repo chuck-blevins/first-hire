@@ -15,7 +15,7 @@ status: active
 > General information for founders, not legal or tax advice. Confirm specifics with a CPA or attorney before acting.
 
 ## Short answer
-Set up your accounts before you make the offer. You need an EIN from the IRS, a Georgia withholding number from DOR (Georgia Tax Center), and a Georgia DOL unemployment insurance (UI) account. Get workers' comp lined up, and put up the required posters. The offer letter should be at-will and paired with an IP assignment agreement. On day 1 the hire completes the I-9, W-4, and G-4. You report them to the Georgia New Hire Reporting Program within 10 days. After that, payroll runs on a fixed schedule of tax deposits and quarterly filings. Most founders hand that to a payroll provider.
+Set up your accounts before you make the offer. You need an EIN from the IRS and a Georgia withholding number from DOR (Georgia Tax Center). The Georgia DOL unemployment insurance (UI) account (DOL-1A) is filed immediately after the first Georgia payroll, so have it ready to go. Get workers' comp lined up, and put up the required posters. The offer letter should be at-will and paired with an IP assignment agreement. On day 1 the hire completes the I-9, W-4, and G-4. You report them to the Georgia New Hire Reporting Program within 10 days. After that, payroll runs on a fixed schedule of tax deposits and quarterly filings. Most founders hand that to a payroll provider.
 
 ## By stage
 - **Pre-revenue founders:**

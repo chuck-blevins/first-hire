@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "q01",
+    "persona": "pre-revenue",
+    "packages": [
+      "first-hire-checklist",
+      "ga-employer-taxes"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 4,
+      "fact_recall": 0.75,
+      "missing_facts": [
+        "Report the new hire to the Georgia New Hire Reporting Program within 10 days of hire"
+      ],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "Biggest problem is minor: it doesn't name the current W-4 (2026) and G-4 (Rev. 06/03/26) revisions. It does follow step 5 and puts the DOL-1A after the first payroll, and it hits no must_not_say trap."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q02",
+    "persona": "funded-2-10",
+    "packages": [
+      "first-hire-checklist",
+      "ga-employer-taxes"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 1,
+      "grounding": 1,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "It gets the key points right: the DOL-1A is filed after the first Georgia payroll, the rate is 2.70% on a $9,500 wage base, and the 2027 sunset is flagged. It never states the '1 employee in 20 weeks' liability trigger in the body (only a '20-week' mention in the footnote), and the FUTA, EFTPS and workers' comp claims have no citations."
+    },
+    "judge_total": 8,
+    "pass": true
+  },
+  {
+    "id": "q03",
+    "persona": "pre-revenue",
+    "packages": [
+      "first-hire-checklist",
+      "headcount-triggers-and-compliance-calendar",
+      "ga-employer-taxes"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "No significant problems. The answer corrects the founders-don't-count premise at the start and includes all four required facts (3+ employees, officers counted, WC-10 waiver doesn't reduce the count, $500–$5,000 penalty). It cites SBWC pages, dates its re-check, flags the Rev. 7/15 page, and refers the founder to an insurance agent and a CPA."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q04",
+    "persona": "pre-revenue",
+    "packages": [
+      "ga-employer-taxes"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": false,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 1,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer covers every must_include fact and names the stale 'graduated' DOR page instead of repeating it. Its main weakness is grounding: the $500 e-pay threshold, the FICA rates, and the claim that the rate changed in each of the last few years have no citation."
+    },
+    "judge_total": 9,
+    "pass": true
+  },
+  {
+    "id": "q05",
+    "persona": "funded-2-10",
+    "packages": [
+      "ga-employer-taxes",
+      "employee-vs-contractor"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "All four required facts are present and correct, and no must_not_say trap appears. The Georgia FUTA line is negated, and the $8,500 figure never shows up. The weakest point is that the 2027 Social Security base ($192,300) comes only from secondary sources. The answer says so openly, so it costs nothing."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q06",
+    "persona": "funded-2-10",
+    "packages": [
+      "ga-employer-taxes",
+      "first-hire-checklist"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": false,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer covers all four required facts (Nov 2 for Form 941, G-7 and DOL-4N, and the $500 FUTA threshold) and routes the founder to GTC, EFTPS and the GA DOL Employer Portal. It declines the login offer clearly, with no must_not_say hit. The biggest weakness is minor: it never says which items it left unverified, beyond the Nov 16 deposit date, and it gives no explicit CPA referral."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q07",
+    "persona": "pre-revenue",
+    "packages": [
+      "employee-vs-contractor"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 4,
+      "fact_recall": 0.75,
+      "missing_facts": [
+        "Either party can file Form SS-8 for an IRS ruling, which may take at least six months"
+      ],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": true,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "Omits Form SS-8 (an IRS ruling on worker status, which can take six months or more), so one must_include fact is missing, and it doesn't say that the 1099-NEC deadline is stated by the answer itself rather than re-verified for the weekend shift. Otherwise it is strong: it covers the written-assignment rule, W-9, the $2,000 threshold, the attorney/CPA referrals and the disclaimer, and has no must_not_say hit."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q08",
+    "persona": "funded-2-10",
+    "packages": [
+      "employee-vs-contractor",
+      "ga-employer-taxes"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 2,
+      "facts_total": 3,
+      "fact_recall": 0.667,
+      "missing_facts": [
+        "GA UI penalty: $20 or 0.05% of gross payroll (whichever is greater) per month delinquent, plus 1.5% interest per month on the extra tax"
+      ],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 1,
+      "grounding": 1,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer omits the GA UI penalty figures ($20 or 0.05% of gross payroll per month, plus 1.5% monthly interest) and says only 'late penalties and interest'. It also names Section 530 relief without its reasonable-basis and consistent-1099-filing requirements. The GA UI exposure claim is uncited, but no must_not_say trap appears."
+    },
+    "judge_total": 8,
+    "pass": true
+  },
+  {
+    "id": "q09",
+    "persona": "pre-revenue",
+    "packages": [
+      "equity-for-early-hires",
+      "delaware-entity-in-georgia"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 1,
+      "freshness": 1,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The biggest gap is the QSBS $75M gross-asset limit for stock issued after July 4, 2025, which is missing, so the answer only partly meets the QSBS must_include. Grounding and freshness are also partial: only one changing figure carries a checked date, and the 409A and Rev. Proc. rules are given without verification labels."
+    },
+    "judge_total": 8,
+    "pass": true
+  },
+  {
+    "id": "q10",
+    "persona": "funded-2-10",
+    "packages": [
+      "equity-for-early-hires"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 3,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [
+        "no professional referral"
+      ],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": false,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer covers every must_include fact (12-month appraisal, 20% additional tax, $100,000 ISO limit) with no trap hits. Its biggest weakness is minor: the Cooley GO acceleration claim is cited but only marked 'secondary', and the pre-seed-valuation-is-stale advice is stated fairly confidently, though the answer does refer the founder to counsel and a valuation firm."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q11",
+    "persona": "funded-2-10",
+    "packages": [
+      "firing-and-offboarding-ga",
+      "equity-for-early-hires"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "All four must_include facts are present and correct: unvested forfeiture, the 90-day window, NSO treatment after 3 months, and DOL-800 timing. Citations are real, dates are labeled, and the final-pay item is flagged as unverified. The biggest weakness is length, since the answer runs close to a package dump, but it leads with the options answer and doesn't cost points elsewhere."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q12",
+    "persona": "pre-revenue",
+    "packages": [
+      "equity-for-early-hires"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 3,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 1,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "Facts are right (30 days, Form 15620 Rev. 4-2025, taxed as it vests) and no must_not_say trap appears. Grounding loses a point because the only filing source is the IRS form PDF, the fix options (cancel and reissue, remove vesting) are flagged as uncited practice, and the claim that the IRS grants no relief is unsourced."
+    },
+    "judge_total": 9,
+    "pass": true
+  },
+  {
+    "id": "q13",
+    "persona": "pre-revenue",
+    "packages": [
+      "delaware-entity-in-georgia"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "Strong answer: it says Delaware gives no Georgia tax savings, includes 4.99%, the $5,000 net worth cap and the $225 fee, and gives dates for the figures. Its biggest weakness is that the registered-agent cost range, the good-standing certificate cost and the Delaware franchise tax figures lean on secondary sources or estimates, although it labels them as such."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q14",
+    "persona": "funded-2-10",
+    "packages": [
+      "delaware-entity-in-georgia"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer has all four required facts ($400 DE tax, June 1 due date, $500 penalty, $225 fee) and does not state $300 as current. The biggest weakness is length: the payroll, workers' comp and city license add-ons make it longer than the founder's question needed, but they are relevant to a 3-employee Atlanta LLC."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q15",
+    "persona": "pre-revenue",
+    "packages": [
+      "remote-and-out-of-state-hires",
+      "delaware-entity-in-georgia",
+      "first-hire-checklist"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 1,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "Facts are right and the answer covers all must_include items (GA 5%/$5,000 trigger, localization for UI, NC registration, $225 GA foreign registration), with no must_not_say hit. The main weakness is grounding: the NC withholding citation points to a PD-10-1 page about nonresident contractors and ITIN holders, which doesn't support the claim about residents' wages, and the NC UI thresholds and some other claims are cited loosely or only to secondary sources like FindLaw."
+    },
+    "judge_total": 9,
+    "pass": true
+  },
+  {
+    "id": "q16",
+    "persona": "funded-2-10",
+    "packages": [
+      "remote-and-out-of-state-hires",
+      "first-hire-checklist"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer covers every must_include fact: the TWC $1,500 and 10-day rule, optional workers' comp with state reporting, both remote I-9 routes, and no Texas income tax. It cites official pages, dates its figures, flags the Texas franchise-tax test as unverified, and sends the founder to a CPA. The only small gap is that it never uses the word \"nonsubscriber\"."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q17",
+    "persona": "pre-revenue",
+    "packages": [
+      "remote-and-out-of-state-hires",
+      "employee-vs-contractor"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 3,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": false,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "Covers W-8BEN (Oct 2021, kept on file, not sent to IRS), no 1099-NEC/1042-S, and OFAC with no must_not_say hits. Only minor gaps: it points to Pub 515 as a general citation and the CPA referral on the 1099 reading is soft, but the package-reading and unverified-Polish-law items are flagged."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q18",
+    "persona": "pre-revenue",
+    "packages": [
+      "paying-founders"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 3,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": true,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 1,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer covers every required fact and has no trap hits. The main weakness is grounding: several claims have no citation, including the Form 2553 March 15 deadline, the 1120-S and GA 600S requirements, and the C-corp registration steps. The answer is also somewhat long for a question that mainly needed the entity clarification."
+    },
+    "judge_total": 9,
+    "pass": true
+  },
+  {
+    "id": "q19",
+    "persona": "funded-2-10",
+    "packages": [
+      "paying-founders",
+      "ga-employer-taxes",
+      "first-hire-checklist"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 4,
+      "fact_recall": 0.75,
+      "missing_facts": [
+        "S-corp owners must take a reasonable W-2 salary before distributions; no official percentage or formula exists"
+      ],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer covers all four must_include facts (reasonable W-2 salary, GA UI on officer salaries, box 1 only for >2% shareholder health premiums, founders counting toward the 3-employee workers' comp threshold) and hits no must_not_say trap. The only soft spot is the advice that a lower salary 'can be defensible early on', which edges toward a judgment call. It is hedged and routed to a CPA, so it isn't a real problem."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q20",
+    "persona": "pre-revenue",
+    "packages": [
+      "paying-founders",
+      "exempt-vs-nonexempt-pay-rules"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": false,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 1,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The biggest gap is freshness. The answer says 'checked today' for a few sources but gives the $684/week salary threshold and other changing figures without dating or verifying them, and it doesn't flag unverified items. All four must_include facts are present, including 541.101, $7.25, volunteer, and 531.27."
+    },
+    "judge_total": 9,
+    "pass": true
+  },
+  {
+    "id": "q21",
+    "persona": "funded-2-10",
+    "packages": [
+      "headcount-triggers-and-compliance-calendar",
+      "firing-and-offboarding-ga"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 1,
+      "freshness": 2,
+      "fit": 1,
+      "safety": 2,
+      "notes": "The substance is correct: it corrects the handbook with Bostock, gives 15 for Title VII/ADA/GINA and 20 for ADEA/COBRA, and explains the 20-week count and COBRA's prior-year test. The weaknesses are that several claims have no citation (Georgia equal pay, kin-care, the 25 and 50 thresholds), the Georgia statutes are cited to FindLaw rather than an official source, and the answer runs long with extras beyond the 15/20 question."
+    },
+    "judge_total": 8,
+    "pass": true
+  },
+  {
+    "id": "q22",
+    "persona": "pre-revenue",
+    "packages": [
+      "headcount-triggers-and-compliance-calendar",
+      "delaware-entity-in-georgia",
+      "employee-vs-contractor"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 5,
+      "facts_total": 5,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "No significant problems. It covers every must_include fact and the $600 mention is explicitly labeled as the old threshold. It also adds the Atlanta license and the Assumed Par Value recalculation. The only minor risk is that the answer claims it re-checked sources live, which I can't verify from the text."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q23",
+    "persona": "funded-2-10",
+    "packages": [
+      "headcount-triggers-and-compliance-calendar",
+      "local-business-licenses-metro-atlanta",
+      "first-hire-checklist"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 1,
+      "safety": 2,
+      "notes": "Facts are correct and cited (more than 10, 35+ hours, Jan 1, O.C.G.A. § 36-60-6, E-Verify number on renewal, March 15 and the 10% penalty), with live-check dates and a 'not legal advice' framing. The biggest problem is fit: the answer is padded with unrelated Title VII/ADA 15-employee and equal-pay thresholds and the workers' comp note, and it omits explicit routing to the portal beyond a link. Its claim that the Title VII/ADA 15-employee count includes part-timers is also somewhat loosely frame"
+    },
+    "judge_total": 9,
+    "pass": true
+  },
+  {
+    "id": "q24",
+    "persona": "pre-revenue",
+    "packages": [
+      "exempt-vs-nonexempt-pay-rules"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [
+        "figures not dated or re-checked"
+      ],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": false,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "Strong answer overall: it has $684/$35,568, $27.63/hr, $107,432 HCE with the duties requirement, and says the 2024 rule was struck down with $684 restored in May 2026. The handbook's $455 and $100K figures are named only as outdated, so they don't trigger the trap. The weakest point is that it says 'May 2026' without the exact day, which is minor."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q25",
+    "persona": "pre-revenue",
+    "packages": [
+      "exempt-vs-nonexempt-pay-rules",
+      "equity-for-early-hires",
+      "paying-founders"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": false,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": true,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 1,
+      "fit": 2,
+      "safety": 2,
+      "notes": "Strong overall: all must_include facts are present (531.27, $7.25, $684, liquidated damages with 2–3 years, 20% owner exemption), with no must_not_say hit. The biggest gap is freshness: the 531.27 and $684 figures are labeled 're-checked today', but other changing items (the 83(b) 30-day window, 409A, and the Georgia semimonthly rule) are stated without verification dates. The answer also never says 'willful' when it gives the 2–3 year lookback."
+    },
+    "judge_total": 9,
+    "pass": true
+  },
+  {
+    "id": "q26",
+    "persona": "funded-2-10",
+    "packages": [
+      "exempt-vs-nonexempt-pay-rules"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 3,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": true,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer covers every required fact: FS71 seven-factor test, $7.25 minimum, and semimonthly pay. It mentions the six-factor test only to reject it, so it doesn't trip the trap. The biggest weakness is that the $27.63 computer-employee rate and some extras (F-1 visa, workers' comp) go beyond the package and may be unverified, though the answer labels its sources and dates."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q27",
+    "persona": "funded-2-10",
+    "packages": [
+      "payroll-peo-and-benefits",
+      "ga-employer-taxes"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 4,
+      "fact_recall": 0.75,
+      "missing_facts": [
+        "The Georgia PEO bond is the greater of $10,000 or 2.7% of taxable payroll"
+      ],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [
+        "figures not dated or re-checked"
+      ],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": false,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": true,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 1,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer never gives the Georgia PEO bond amount (the greater of $10,000 or 2.7% of taxable payroll), so a required fact is missing. It also says federal wage bases carry over with a CPEO and may restart with a non-certified PEO. That claim is only loosely supported."
+    },
+    "judge_total": 9,
+    "pass": true
+  },
+  {
+    "id": "q28",
+    "persona": "pre-revenue",
+    "packages": [
+      "payroll-peo-and-benefits",
+      "headcount-triggers-and-compliance-calendar"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": false,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer covers every must_include fact (50-employee threshold, $6,450/$13,100 caps, 90-day notice, no Georgia paid-leave mandate with local preemption) and hits no must_not_say trap. The biggest weakness is length: the workers' comp section goes beyond the question, though it is relevant to a 3-person team."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q29",
+    "persona": "pre-revenue",
+    "packages": [
+      "firing-and-offboarding-ga",
+      "exempt-vs-nonexempt-pay-rules"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 4,
+      "fact_recall": 0.75,
+      "missing_facts": [
+        "Appeal a UI determination within 15 days"
+      ],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 1,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "Misses the 15-day UI appeal deadline (must_include) and says the claim response deadline is 'usually 10 days' rather than stating 10 calendar days or the notice date. It avoids the SAO trap, cites § 34-7-1, and covers the DOL-800 timing correctly."
+    },
+    "judge_total": 9,
+    "pass": true
+  },
+  {
+    "id": "q30",
+    "persona": "funded-2-10",
+    "packages": [
+      "firing-and-offboarding-ga",
+      "headcount-triggers-and-compliance-calendar"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 4,
+      "facts_total": 4,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "Strong answer overall: it covers all must_include facts (OWBPA 21/7/45 days, ADEA at 20+, McLaren Macomb, GA 2-year presumption with role limits) and says the FTC ban is not in effect. The biggest weakness is minor: the final-wages item is flagged as unverified, but the answer cites FindLaw rather than an official source for the Georgia statute."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q31",
+    "persona": "pre-revenue",
+    "packages": [
+      "local-business-licenses-metro-atlanta"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 4,
+      "fact_recall": 0.75,
+      "missing_facts": [
+        "DeKalb late filing penalties: $100 after Feb 1, $300 after Mar 1, $600 after Apr 1"
+      ],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": false,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 1,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 1,
+      "notes": "Facts are right: $75 and $50, Feb 1 and Apr 15, the affidavits, and epermits. It omits the $300 and $600 late-penalty tiers and only gives $100. It also relies on a FindLaw secondary link, and Decatur's figures come from unnamed secondary sources. The 'not legal or tax advice' line is present, but there is no CPA or attorney referral."
+    },
+    "judge_total": 8,
+    "pass": true
+  },
+  {
+    "id": "q32",
+    "persona": "funded-2-10",
+    "packages": [
+      "local-business-licenses-metro-atlanta",
+      "headcount-triggers-and-compliance-calendar"
+    ],
+    "answered": true,
+    "auto": {
+      "facts_found": 3,
+      "facts_total": 3,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [
+        "Business Tax Portal"
+      ],
+      "behavior_problems": [
+        "no clarifying question"
+      ],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": true,
+        "refers_professional": true,
+        "says_out_of_scope": false,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 1,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 1,
+      "notes": "Facts are right: it says to check city vs. unincorporated, and gives Feb 15, the $25 fee, the 10% after Mar 31, and 1.5% a month. Grounding loses a point because the Gwinnett penalty figures have no inline citation and the Business Tax Portal isn't named. Safety loses a point because it doesn't say what to do about a city address (the city's own page shows no renewal date) beyond 'ask Finance', and it refers to a CPA only for multi-jurisdiction cases, not for judgment calls such as the E-Verify "
+    },
+    "judge_total": 8,
+    "pass": true
+  },
+  {
+    "id": "q33",
+    "persona": "funded-2-10",
+    "packages": [],
+    "answered": true,
+    "auto": {
+      "facts_found": 1,
+      "facts_total": 2,
+      "fact_recall": 0.5,
+      "missing_facts": [
+        "These packages only cover US federal plus Georgia law; California employment law is outside the scope"
+      ],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": false,
+        "refers_professional": true,
+        "says_out_of_scope": true,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 2,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer says California law is out of scope, refers the founder to a California employment attorney and the official CA and SF agencies, and uses no Georgia-specific procedures. The only small weakness is that the federal items in the closing offer (COBRA, I-9, OWBPA) are uncited, but they are not figures and don't affect the answer."
+    },
+    "judge_total": 10,
+    "pass": true
+  },
+  {
+    "id": "q34",
+    "persona": "pre-revenue",
+    "packages": [],
+    "answered": true,
+    "auto": {
+      "facts_found": 1,
+      "facts_total": 2,
+      "fact_recall": 0.5,
+      "missing_facts": [
+        "Personal income tax filing is outside the scope of these packages (startup hiring and running a business in GA)"
+      ],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": false,
+        "refers_professional": true,
+        "says_out_of_scope": true,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 2,
+      "grounding": 1,
+      "freshness": 2,
+      "fit": 2,
+      "safety": 2,
+      "notes": "The answer correctly declares personal tax filing out of scope, refers the user to a CPA or enrolled agent, and invents no credit figures. Its only weakness is that the three IRS URLs (ITA, Free File, VITA) are cited from memory and not verified, and the VITA link actually points to the Free File page."
+    },
+    "judge_total": 9,
+    "pass": true
+  },
+  {
+    "id": "q35",
+    "persona": "funded-2-10",
+    "packages": [],
+    "answered": true,
+    "auto": {
+      "facts_found": 2,
+      "facts_total": 2,
+      "fact_recall": 1.0,
+      "missing_facts": [],
+      "trap_hits": [],
+      "portals_missing": [],
+      "behavior_problems": [],
+      "flags": {
+        "has_citation": true,
+        "dates_figures": false,
+        "refers_professional": true,
+        "says_out_of_scope": true,
+        "asks_question": false,
+        "credential_risk": false
+      }
+    },
+    "judge": {
+      "correctness": 1,
+      "grounding": 1,
+      "freshness": 1,
+      "fit": 1,
+      "safety": 1,
+      "notes": "The answer opens with a tentative 'Probably not' on SaaS taxability and relies on 2014 letter rulings and secondary sources, instead of saying GA sales tax on SaaS is out of scope and sending the founder to a CPA or GA DOR. It does say the package doesn't cover sales tax and refers to a SALT CPA, but the lean toward 'not taxable' edges toward the must_not_say trap of a definitive answer without a source."
+    },
+    "judge_total": 5,
+    "pass": false
+  }
+]

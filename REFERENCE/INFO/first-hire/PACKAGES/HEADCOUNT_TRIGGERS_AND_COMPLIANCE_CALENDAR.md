@@ -30,7 +30,7 @@ With your first W-2 employee, wage-and-hour law (FLSA), Form I-9, OSHA's general
 - **Funded teams hiring 2–10:**
   - **Every quarter:** the payroll returns (941, G-7, DOL-4N) become routine.
   - **Workers' comp:** applies at 3 regular employees.
-  - **Under 10 employees:** OSHA's injury log isn't required.
+  - **10 or fewer employees all of last year:** OSHA's injury log isn't required.
   - **Plan ahead for 11 and 15:**
     - **11 full-time employees:** E-Verify becomes mandatory at your next license renewal.
     - **15 employees:** federal discrimination law, including ADA accommodation, applies.
