@@ -6,7 +6,7 @@ tags: [payroll-taxes, withholding, fica, futa, ga-unemployment-insurance, new-hi
 jurisdiction: [US-federal, GA]
 audience: [pre-revenue, funded-2-10]
 related: [first-hire-checklist, paying-founders, employee-vs-contractor, equity-for-early-hires, exempt-vs-nonexempt-pay-rules, headcount-triggers-and-compliance-calendar, delaware-entity-in-georgia, payroll-peo-and-benefits, remote-and-out-of-state-hires, local-business-licenses-metro-atlanta]
-last_verified: 2026-10-25
+last_verified: 2026-10-26
 status: active
 ---
 
@@ -34,7 +34,7 @@ Once you pay a W-2 employee in Georgia, you have three agencies to deal with. **
 
 **Federal income tax withholding (W-4).** Get a signed 2026 Form W-4 from each new hire and apply it from the first paycheck. If they don't turn one in, withhold as if they checked Single/Married filing separately and left everything else blank. The withholding tables are in Pub. 15-T. Sources: `REFERENCE/INFO/first-hire/p15.pdf` p.26; [IRS: About Form W-4](https://www.irs.gov/forms-pubs/about-form-w-4).
 
-**FICA (Social Security + Medicare).** For 2026, Social Security is 6.2% from the employee plus 6.2% from you, on wages up to **$184,500**. Medicare is 1.45% plus 1.45% with no wage cap. Sources: `p15.pdf` p.1–2; [IRS Topic 751](https://www.irs.gov/taxtopics/tc751).
+**FICA (Social Security + Medicare).** For 2026, Social Security is 6.2% from the employee plus 6.2% from you, on wages up to **$184,500**. For 2027, SSA has announced a wage base of **$192,300** (announced Oct 14, 2026), so budgets for wages paid in 2027 should use $192,300 at the same 6.2% rate, a maximum of $11,922.60 from each side. Medicare is 1.45% plus 1.45% with no wage cap. Sources: `p15.pdf` p.1–2; [IRS Topic 751](https://www.irs.gov/taxtopics/tc751); [SSA contribution and benefit base](https://www.ssa.gov/oact/cola/cbb.html) (ssa.gov returned 403 to automated checks on 2026-10-26; the 2027 figure was read from the Internet Archive copy of that SSA page captured 2026-10-20).
 
 **Additional Medicare tax.** Once an employee's wages for the year pass $200,000, withhold an extra 0.9% from them starting in that pay period. You don't match it. Sources: `p15.pdf` p.29–30; [IRS Topic 751](https://www.irs.gov/taxtopics/tc751).
 
@@ -53,7 +53,7 @@ Once you pay a W-2 employee in Georgia, you have three agencies to deal with. **
 - Monthly: more than $200 per month. Payment is due by the 15th of the next month.
 - Semiweekly: more than $50,000 in the lookback period
 
-Most filers file a quarterly **G-7** by the last day of the month after the quarter ends, even if they withheld nothing. The exception is employers withholding $800 or less a year. They can file one G-7 by January 31 of the following year, but only if they request annual status in GTC before the first quarterly due date (p.7–8). Once a G-7 shows more than $500 withheld, you must pay by EFT and file electronically from then on. The yearly reconciliation is **G-1003**, filed with your W-2s by January 31. Sources: `2026 Employers_Tax_Guide.pdf` p.6, 8–9, 15, 19.
+Most filers file a quarterly **G-7** by the last day of the month after the quarter ends, even if they withheld nothing. The exception is employers withholding $800 or less a year. They can file one G-7 by January 31 of the following year, but only if they request annual status in GTC before the first quarterly due date (p.7–8). Once a G-7 shows more than $500 withheld, you must pay by EFT and file electronically from then on. The yearly reconciliation is **G-1003**, filed with your W-2s by January 31. Forms 1099 go with the G-1003 only if they report Georgia withholding, qualified overtime, or qualified cash tips. The exceptions are Forms 1099-K and 1099-DA, which must be submitted even with no Georgia withholding. A 1099-NEC for a contractor you withheld nothing from does not go to GA DOR. Sources: `2026 Employers_Tax_Guide.pdf` p.6–7, 8–9, 15, 19–20.
 
 **GA unemployment insurance (SUTA).** You become liable once you pay $1,500 in wages in any calendar quarter, or have at least one worker in 20 different weeks of a year (`dol4e.pdf` p.2).
 - **Taxable wage base:** $9,500 per employee per year (`dol224.pdf` p.68; [GA DOL: file reports](https://dol.georgia.gov/file-tax-and-wage-reports-and-make-payments)).
@@ -63,7 +63,7 @@ Most filers file a quarterly **G-7** by the last day of the month after the quar
 
 **New-hire reporting.** Within **10 days** of hire, report every new or rehired employee who lives or works in Georgia. Report even someone who worked only one day. The report covers the employee's name, address, SSN, date of birth, start date, state of hire and whether medical insurance is available, plus your FEIN, name and address. File online, by upload, or by mail at [ga-newhire.com](https://www.ga-newhire.com/), which redirects to newhire-reporting.com. Sources: `dol224.pdf` p.24; [GA New Hire FAQ](https://newhire-reporting.com/GA-Newhire/FAQ.aspx).
 
-**Workers' compensation.** It's required once you regularly employ **3 or more** people, part-time or full-time. Corporate officers and LLC members count toward the 3 even if they waive their own coverage on Form WC-10. It's administered by the State Board of Workers' Compensation (SBWC). If you're required to carry it and don't, the Board can fine you $500–$5,000 per occurrence, and willfully going without it is a misdemeanor. Sources: `dol224.pdf` p.30; [SBWC Employer Information](https://sbwc.georgia.gov/employer-information).
+**Workers' compensation.** It's required once you regularly employ **3 or more** people, part-time or full-time. Corporate officers and LLC members count toward the 3 even if they waive their own coverage on Form WC-10. It's administered by the State Board of Workers' Compensation (SBWC). If you're required to carry it and don't, the Board can impose a civil penalty of $500–$5,000 per occurrence. An employer that refuses or willfully neglects to get coverage is guilty of a misdemeanor, punishable on conviction by a fine of $1,000–$10,000, up to 12 months in jail, or both. The Board can also assess attorney's fees and a 10% increase in the injured employee's compensation. Sources: `dol224.pdf` p.30; [SBWC Employer Information](https://sbwc.georgia.gov/employer-information) (checked 2026-10-26).
 
 **Posters.** GA DOL requires these posters (English and Spanish versions are available):
 - DOL-810, Unemployment Insurance for Employees
@@ -79,7 +79,7 @@ SBWC requires its Bill of Rights (WC-BOR), a Panel of Physicians (WC-P1 or WC-P3
 1. **Get an EIN** (prerequisite). You get it from the [IRS](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number).
 2. **Enroll in EFTPS** at [eftps.gov](https://www.eftps.gov). Enrollment takes about a week because the PIN arrives by mail. You get the login you'll use for federal deposits.
 3. **Register for GA withholding** in the [Georgia Tax Center](https://gtc.dor.ga.gov/_/), under "Register a New Georgia Business." You get a withholding number and your filing frequency within about 15 minutes ([DOR](https://dor.georgia.gov/taxes/register-new-business-georgia)).
-4. **Register for a GA UI tax account** using GA DOL's online registration at [dol.georgia.gov/online-services](https://dol.georgia.gov/online-services). DOL's FAQ says to do this right after your first GA payroll. You get an account number right away. Then set up the [Employer Portal](https://eresponse.gdol.ga.gov/idp/sso/employer/login), where you'll file DOL-4N, make payments and see your rate notice.
+4. **Register for a GA UI tax account** using GA DOL's online registration at [dol.georgia.gov/online-services](https://dol.georgia.gov/online-services). DOL's FAQ says to do this right after your first GA payroll. You get an account number right away. Then set up the [Employer Portal](https://www.dol.state.ga.us/public/uitax/emplportal/login), the link on GA DOL's Online Services page, where you'll file DOL-4N, make payments and see your rate notice. An alternate login URL, https://eresponse.gdol.ga.gov/idp/sso/employer/login, also loads.
 5. **Collect a W-4, G-4 and I-9** from each new hire before their first paycheck.
 6. **Report the hire** at [ga-newhire.com](https://www.ga-newhire.com/) within 10 days.
 7. **Buy workers' comp** from a licensed insurer before you reach 3 employees. Many founders buy it from day one. You get a policy, and the coverage shows up in the [SBWC verification lookup](https://sbwc.georgia.gov/online-employers-workers-compensation-coverage-verification).
@@ -113,7 +113,7 @@ Sources: `p15.pdf` p.11–12, 33; `2026 Employers_Tax_Guide.pdf` p.6; `dol224.pd
 | GA DOR withholding | https://dor.georgia.gov/taxes/withholding-tax-employers | Forms and guide |
 | GA DOR 2026 Employer's Tax Guide | https://dor.georgia.gov/document/document/2026-employers-tax-guide-updated-june-2026/download | Tables and percentage method (Rev. Sept 2026) |
 | GA DOL online services | https://dol.georgia.gov/online-services | UI account registration |
-| GA DOL Employer Portal | https://eresponse.gdol.ga.gov/idp/sso/employer/login | DOL-4N filing, payments, rate notice (founder logs in) |
+| GA DOL Employer Portal | https://www.dol.state.ga.us/public/uitax/emplportal/login | DOL-4N filing, payments, rate notice (founder logs in). Linked from GA DOL Online Services. Alternate URL that also loads: https://eresponse.gdol.ga.gov/idp/sso/employer/login |
 | GA DOL file reports/payments | https://dol.georgia.gov/file-tax-and-wage-reports-and-make-payments | Due dates and wage base |
 | GA New Hire Reporting | https://www.ga-newhire.com/ | 10-day new-hire reports |
 | SBWC employer info | https://sbwc.georgia.gov/employer-information | Workers' comp rules and posters |
@@ -123,6 +123,7 @@ Sources: `p15.pdf` p.11–12, 33; `2026 Employers_Tax_Guide.pdf` p.6; `dol224.pd
 | Item | Value as of last check | Where to verify | Last verified |
 |------|------------------------|-----------------|---------------|
 | Social Security rate / 2026 wage base | 6.2% + 6.2%; $184,500 | IRS Topic 751; Pub 15 p.1–2 (ssa.gov returned 403) | 2026-10-25 |
+| 2027 Social Security wage base | $192,300 (announced by SSA Oct 14, 2026; applies to wages paid in 2027) | https://www.ssa.gov/oact/cola/cbb.html (returns 403 to automated checks; read from the Internet Archive capture of 2026-10-20). Pub 15 (2027) when published | 2026-10-26 |
 | Medicare rate | 1.45% + 1.45%, no cap | IRS Topic 751 | 2026-10-25 |
 | Additional Medicare threshold/rate | 0.9% over $200,000, employee only | IRS Topic 751 | 2026-10-25 |
 | FUTA rate / wage base / max credit | 6.0% / $7,000 / 5.4% (net 0.6%) | Pub 15 p.43–44 | 2026-10-25 |
@@ -137,6 +138,7 @@ Sources: `p15.pdf` p.11–12, 33; `2026 Employers_Tax_Guide.pdf` p.6; `dol224.pd
 | G-4 revision | Rev. 06/03/26 | DOR G-4 page | 2026-10-25 (local PDF only) |
 | GA filing-frequency thresholds | $800/yr, $200/mo, $50,000 lookback; EFT if more than $500 | 2026 DOR guide p.8 | 2026-10-25 |
 | G-7 / G-1003 due dates | See calendar; G-1003 + W-2s Jan 31 | 2026 DOR guide p.6, 19 | 2026-10-25 |
+| Which 1099s go with the G-1003 | Only 1099s reporting GA withholding, qualified overtime, or qualified cash tips; 1099-K and 1099-DA always | 2026 DOR guide p.7, 20 | 2026-10-26 |
 | GA UI wage base | $9,500 | GA DOL file-reports page | 2026-10-25 |
 | GA new-employer total rate | 2.70% (2.64% + 0.06% admin. assessment, 2024–2026) | SB 160; GA DOL UI FAQ; DOL-626 in Portal | 2026-10-25 |
 | GA UI liability trigger | $1,500 in a quarter or 1 worker in 20 weeks | dol4e.pdf p.2 | 2026-10-25 |
@@ -144,6 +146,8 @@ Sources: `p15.pdf` p.11–12, 33; `2026 Employers_Tax_Guide.pdf` p.6; `dol224.pd
 | DOL electronic filing threshold | 25 or more employees | dol224 p.78; dol4606 p.2 (live page gives no number) | 2026-10-25 |
 | New-hire deadline | 10 days | GA New Hire FAQ | 2026-10-25 |
 | Workers' comp threshold | 3 or more regular employees | SBWC Employer Information | 2026-10-25 |
+| Workers' comp penalties | Civil penalty $500–$5,000 per occurrence; willful failure is a misdemeanor, fine $1,000–$10,000 and/or up to 12 months | https://sbwc.georgia.gov/employer-information | 2026-10-26 |
+| GA DOL Employer Portal URL | https://www.dol.state.ga.us/public/uitax/emplportal/login (linked from Online Services); eresponse.gdol.ga.gov/idp/sso/employer/login also loads | https://dol.georgia.gov/online-services | 2026-10-26 |
 | Required GA posters | DOL-810, DOL-154, DOL-4107; WC-BOR, WC-P1/P3 | GDOL posters page; SBWC | 2026-10-25 |
 | Local payroll taxes | None found; **not confirmed** | City/county business license office | Not verified |
 | 2027 UI rate after SB 160 sunset | Unknown; SB 160 text has the 2.64% rate and the assessment ending after Dec 31, 2026 | GA DOL; 2027 DOL-626 | Not verified |
