@@ -1,1 +1,5 @@
 .DS_Store
+
+# Filled-in forms, account letters, and anything company- or founder-specific.
+# This repo is public: keep those in a private/ folder, which stays on the local machine only.
+**/private/
